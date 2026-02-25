@@ -1,0 +1,113 @@
+{
+  "title": "Blockbuster Movies",
+  "meta": {
+    "description": "Lights, camera, action! How well do you know the biggest films ever made?",
+    "subject": "Pop Culture",
+    "tags": ["movies", "film", "cinema", "blockbusters"],
+    "difficulty": "easy",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 4,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Who played Iron Man in the Marvel Cinematic Universe?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Chris Evans" },
+        { "id": "b", "label": "Robert Downey Jr." },
+        { "id": "c", "label": "Mark Ruffalo" },
+        { "id": "d", "label": "Chris Hemsworth" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "In which film does the quote 'You're gonna need a bigger boat' appear?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "The Abyss" },
+        { "id": "b", "label": "Titanic" },
+        { "id": "c", "label": "Jaws" },
+        { "id": "d", "label": "Deep Blue Sea" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "Which animated film features a clownfish searching for his son?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Shark Tale" },
+        { "id": "b", "label": "The Little Mermaid" },
+        { "id": "c", "label": "Finding Nemo" },
+        { "id": "d", "label": "Moana" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "What is the name of the toy cowboy in Toy Story?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Buzz" },
+        { "id": "b", "label": "Woody" },
+        { "id": "c", "label": "Rex" },
+        { "id": "d", "label": "Hamm" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "Which 1997 film is the highest-grossing of the 20th century?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Jurassic Park" },
+        { "id": "b", "label": "The Lion King" },
+        { "id": "c", "label": "Titanic" },
+        { "id": "d", "label": "Star Wars" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "In The Matrix, does Neo take the red pill or the blue pill?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Blue pill" },
+        { "id": "b", "label": "Red pill" },
+        { "id": "c", "label": "Green pill" },
+        { "id": "d", "label": "Both" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q7",
+      "text": "Who directed the original Star Wars (1977)?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Steven Spielberg" },
+        { "id": "b", "label": "Francis Ford Coppola" },
+        { "id": "c", "label": "James Cameron" },
+        { "id": "d", "label": "George Lucas" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q8",
+      "text": "Which film features the fictional country of Wakanda?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Thor: Ragnarok" },
+        { "id": "b", "label": "Black Panther" },
+        { "id": "c", "label": "Doctor Strange" },
+        { "id": "d", "label": "Avengers: Infinity War" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

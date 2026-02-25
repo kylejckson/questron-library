@@ -1,0 +1,113 @@
+{
+  "title": "World Capitals",
+  "meta": {
+    "description": "Can you name the capital cities? Test your geography knowledge across all continents.",
+    "subject": "Geography",
+    "tags": ["capitals", "countries", "cities", "geography"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 4,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What is the capital of Australia?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Sydney" },
+        { "id": "b", "label": "Melbourne" },
+        { "id": "c", "label": "Canberra" },
+        { "id": "d", "label": "Brisbane" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q2",
+      "text": "What is the capital of Canada?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Toronto" },
+        { "id": "b", "label": "Vancouver" },
+        { "id": "c", "label": "Montreal" },
+        { "id": "d", "label": "Ottawa" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q3",
+      "text": "What is the capital of Brazil?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Rio de Janeiro" },
+        { "id": "b", "label": "São Paulo" },
+        { "id": "c", "label": "Brasília" },
+        { "id": "d", "label": "Salvador" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "What is the capital of Japan?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Osaka" },
+        { "id": "b", "label": "Kyoto" },
+        { "id": "c", "label": "Hiroshima" },
+        { "id": "d", "label": "Tokyo" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q5",
+      "text": "What is the capital of South Africa?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Cape Town" },
+        { "id": "b", "label": "Pretoria" },
+        { "id": "c", "label": "Johannesburg" },
+        { "id": "d", "label": "Durban" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q6",
+      "text": "What is the capital of Argentina?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Córdoba" },
+        { "id": "b", "label": "Rosario" },
+        { "id": "c", "label": "Buenos Aires" },
+        { "id": "d", "label": "Mendoza" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "What is the capital of New Zealand?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Auckland" },
+        { "id": "b", "label": "Christchurch" },
+        { "id": "c", "label": "Dunedin" },
+        { "id": "d", "label": "Wellington" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q8",
+      "text": "What is the capital of Egypt?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Alexandria" },
+        { "id": "b", "label": "Luxor" },
+        { "id": "c", "label": "Cairo" },
+        { "id": "d", "label": "Giza" }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  ]
+}

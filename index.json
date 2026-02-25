@@ -1,0 +1,50 @@
+{
+  "_note": "Replace YOUR_USERNAME and YOUR_REPO_NAME in all quizUrl fields below with your actual GitHub username and repo name.",
+  "quizzes": [
+    {
+      "title": "General Knowledge",
+      "subject": "General Knowledge",
+      "difficulty": "easy",
+      "tags": ["trivia", "mixed", "fun"],
+      "questionCount": 8,
+      "estimatedMinutes": 4,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/YOUR_USERNAME/YOUR_REPO_NAME@main/general-knowledge.json"
+    },
+    {
+      "title": "World Capitals",
+      "subject": "Geography",
+      "difficulty": "medium",
+      "tags": ["capitals", "countries", "cities", "geography"],
+      "questionCount": 8,
+      "estimatedMinutes": 4,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/YOUR_USERNAME/YOUR_REPO_NAME@main/world-capitals.json"
+    },
+    {
+      "title": "Science Basics",
+      "subject": "Science",
+      "difficulty": "medium",
+      "tags": ["physics", "chemistry", "biology", "space"],
+      "questionCount": 8,
+      "estimatedMinutes": 4,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/YOUR_USERNAME/YOUR_REPO_NAME@main/science-basics.json"
+    },
+    {
+      "title": "Blockbuster Movies",
+      "subject": "Pop Culture",
+      "difficulty": "easy",
+      "tags": ["movies", "film", "cinema", "blockbusters"],
+      "questionCount": 8,
+      "estimatedMinutes": 4,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/YOUR_USERNAME/YOUR_REPO_NAME@main/blockbuster-movies.json"
+    },
+    {
+      "title": "History Highlights",
+      "subject": "History",
+      "difficulty": "medium",
+      "tags": ["world history", "events", "figures", "wars"],
+      "questionCount": 8,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/YOUR_USERNAME/YOUR_REPO_NAME@main/history-highlights.json"
+    }
+  ]
+}

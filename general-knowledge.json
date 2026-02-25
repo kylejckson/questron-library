@@ -1,0 +1,113 @@
+{
+  "title": "General Knowledge",
+  "meta": {
+    "description": "A broad mix of everyday trivia — great for warming up any crowd.",
+    "subject": "General Knowledge",
+    "tags": ["trivia", "mixed", "fun"],
+    "difficulty": "easy",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 4,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "How many sides does a hexagon have?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "5" },
+        { "id": "b", "label": "6" },
+        { "id": "c", "label": "7" },
+        { "id": "d", "label": "8" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "What is the largest ocean on Earth?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Atlantic" },
+        { "id": "b", "label": "Indian" },
+        { "id": "c", "label": "Pacific" },
+        { "id": "d", "label": "Arctic" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "Which planet is known as the Red Planet?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Venus" },
+        { "id": "b", "label": "Jupiter" },
+        { "id": "c", "label": "Saturn" },
+        { "id": "d", "label": "Mars" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q4",
+      "text": "How many minutes are in a full day?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "1,140" },
+        { "id": "b", "label": "1,440" },
+        { "id": "c", "label": "1,660" },
+        { "id": "d", "label": "2,400" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "What is the chemical symbol for gold?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Go" },
+        { "id": "b", "label": "Gd" },
+        { "id": "c", "label": "Au" },
+        { "id": "d", "label": "Ag" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "Which animal is the fastest on land?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Lion" },
+        { "id": "b", "label": "Greyhound" },
+        { "id": "c", "label": "Cheetah" },
+        { "id": "d", "label": "Ostrich" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "How many legs does a spider have?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "6" },
+        { "id": "b", "label": "8" },
+        { "id": "c", "label": "10" },
+        { "id": "d", "label": "12" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q8",
+      "text": "What is the longest river in the world?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Amazon" },
+        { "id": "b", "label": "Congo" },
+        { "id": "c", "label": "Yangtze" },
+        { "id": "d", "label": "Nile" }
+      ],
+      "correctOptionIds": ["d"]
+    }
+  ]
+}

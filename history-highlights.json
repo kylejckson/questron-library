@@ -1,0 +1,113 @@
+{
+  "title": "History Highlights",
+  "meta": {
+    "description": "Key moments and figures from world history across different eras.",
+    "subject": "History",
+    "tags": ["world history", "events", "figures", "wars"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "In which year did World War II end?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "1943" },
+        { "id": "b", "label": "1944" },
+        { "id": "c", "label": "1945" },
+        { "id": "d", "label": "1946" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q2",
+      "text": "Who was the first president of the United States?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "John Adams" },
+        { "id": "b", "label": "Thomas Jefferson" },
+        { "id": "c", "label": "Benjamin Franklin" },
+        { "id": "d", "label": "George Washington" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q3",
+      "text": "The Berlin Wall fell in which year?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "1987" },
+        { "id": "b", "label": "1989" },
+        { "id": "c", "label": "1991" },
+        { "id": "d", "label": "1993" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q4",
+      "text": "Which ancient wonder was located in Alexandria, Egypt?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "The Colossus of Rhodes" },
+        { "id": "b", "label": "The Hanging Gardens" },
+        { "id": "c", "label": "The Lighthouse" },
+        { "id": "d", "label": "The Temple of Artemis" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q5",
+      "text": "Napoleon Bonaparte was exiled to which island after Waterloo?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Corsica" },
+        { "id": "b", "label": "Elba" },
+        { "id": "c", "label": "Sardinia" },
+        { "id": "d", "label": "Saint Helena" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q6",
+      "text": "Which empire was ruled by Julius Caesar?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Greek Empire" },
+        { "id": "b", "label": "Ottoman Empire" },
+        { "id": "c", "label": "Roman Empire" },
+        { "id": "d", "label": "Byzantine Empire" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "The Moon landing by Apollo 11 happened in which year?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "1965" },
+        { "id": "b", "label": "1967" },
+        { "id": "c", "label": "1969" },
+        { "id": "d", "label": "1971" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q8",
+      "text": "Which country was the first to grant women the right to vote nationally?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "United Kingdom" },
+        { "id": "b", "label": "United States" },
+        { "id": "c", "label": "New Zealand" },
+        { "id": "d", "label": "Australia" }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  ]
+}
