@@ -1,0 +1,114 @@
+{
+  "title": "Workplace Health and Safety",
+  "meta": {
+    "description": "From fire exits to ergonomics, make sure your workplace knowledge keeps everyone safe!",
+    "subject": "Health & Safety",
+    "category": "Corporate",
+    "tags": ["health", "safety", "workplace", "HR", "wellbeing"],
+    "difficulty": "easy",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 4,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What does PPE stand for in a workplace context?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Personal Performance Evaluation" },
+        { "id": "b", "label": "Personal Protective Equipment" },
+        { "id": "c", "label": "Protective Personnel Engagement" },
+        { "id": "d", "label": "Primary Protection Enforcement" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "What should you do first if you discover a fire in the workplace?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Try to put it out yourself immediately" },
+        { "id": "b", "label": "Alert others and activate the fire alarm" },
+        { "id": "c", "label": "Go back and collect your belongings" },
+        { "id": "d", "label": "Call a colleague and wait for instructions" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q3",
+      "text": "Which colour is typically associated with first aid signs in workplaces?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Red" },
+        { "id": "b", "label": "Yellow" },
+        { "id": "c", "label": "Green" },
+        { "id": "d", "label": "Blue" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "What is the correct way to lift a heavy object to prevent back injury?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Bend at the waist and lift with your back" },
+        { "id": "b", "label": "Bend your knees and lift with your legs" },
+        { "id": "c", "label": "Twist your body as you lift" },
+        { "id": "d", "label": "Keep your legs straight and pull upward" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "What does a yellow warning sign in the workplace typically indicate?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "First aid station" },
+        { "id": "b", "label": "Safe to proceed" },
+        { "id": "c", "label": "Hazard or caution" },
+        { "id": "d", "label": "Fire exit" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "How long should you wash your hands to effectively remove germs?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "5 seconds" },
+        { "id": "b", "label": "10 seconds" },
+        { "id": "c", "label": "20 seconds" },
+        { "id": "d", "label": "60 seconds" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "What is a MSDS/SDS used for in the workplace?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Recording employee attendance" },
+        { "id": "b", "label": "Providing safety information about hazardous substances" },
+        { "id": "c", "label": "Scheduling fire drills" },
+        { "id": "d", "label": "Tracking workplace injuries" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q8",
+      "text": "In the context of ergonomics, what is the ideal position of your monitor screen?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Below eye level, angled upward" },
+        { "id": "b", "label": "Directly at or just below eye level" },
+        { "id": "c", "label": "Above eye level so you look up" },
+        { "id": "d", "label": "As far away as possible" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

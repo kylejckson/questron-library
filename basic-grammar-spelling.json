@@ -1,0 +1,126 @@
+{
+  "title": "Basic Grammar & Spelling",
+  "meta": {
+    "description": "Punctuation, parts of speech, and tricky spellings — sharpen your language skills!",
+    "subject": "English Language",
+    "category": "Classrooms",
+    "tags": ["grammar", "spelling", "english", "punctuation", "language"],
+    "difficulty": "easy",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 4,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Which of the following sentences is grammatically correct?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Me and him went to the store." },
+        { "id": "b", "label": "He and I went to the store." },
+        { "id": "c", "label": "Him and me went to the store." },
+        { "id": "d", "label": "I and him went to the store." }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "Which word is spelled correctly?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Occured" },
+        { "id": "b", "label": "Recieve" },
+        { "id": "c", "label": "Necessary" },
+        { "id": "d", "label": "Accomodate" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "What is the plural of 'child'?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Childs" },
+        { "id": "b", "label": "Childes" },
+        { "id": "c", "label": "Children" },
+        { "id": "d", "label": "Childrens" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "Which word is an example of an adjective?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Quickly" },
+        { "id": "b", "label": "Brilliant" },
+        { "id": "c", "label": "Running" },
+        { "id": "d", "label": "Idea" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "Which sentence uses the apostrophe correctly?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "The dog wagged it's tail." },
+        { "id": "b", "label": "The dog wagged its' tail." },
+        { "id": "c", "label": "The dog wagged its tail." },
+        { "id": "d", "label": "The dog wagged it is tail." }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "What is the correct past tense of 'bring'?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Bringed" },
+        { "id": "b", "label": "Brung" },
+        { "id": "c", "label": "Brang" },
+        { "id": "d", "label": "Brought" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q7",
+      "text": "Which of these words is a conjunction?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Slowly" },
+        { "id": "b", "label": "Because" },
+        { "id": "c", "label": "Beautiful" },
+        { "id": "d", "label": "Mountain" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q8",
+      "text": "Which word is a synonym for 'happy'?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Melancholy" },
+        { "id": "b", "label": "Joyful" },
+        { "id": "c", "label": "Angry" },
+        { "id": "d", "label": "Nervous" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q9",
+      "text": "How many syllables are in the word 'education'?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "3" },
+        { "id": "b", "label": "4" },
+        { "id": "c", "label": "5" },
+        { "id": "d", "label": "6" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

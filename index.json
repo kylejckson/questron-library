@@ -1,9 +1,10 @@
 {
-  "_note": "_",
+  "_note": "Questron Quiz Library — 57 quizzes across 10+ categories",
   "quizzes": [
     {
       "title": "General Knowledge",
       "subject": "General Knowledge",
+      "category": "Parties",
       "difficulty": "easy",
       "tags": ["trivia", "mixed", "fun"],
       "questionCount": 8,
@@ -13,6 +14,7 @@
     {
       "title": "World Capitals",
       "subject": "Geography",
+      "category": "Classrooms",
       "difficulty": "medium",
       "tags": ["capitals", "countries", "cities", "geography"],
       "questionCount": 8,
@@ -22,6 +24,7 @@
     {
       "title": "Science Basics",
       "subject": "Science",
+      "category": "Classrooms",
       "difficulty": "medium",
       "tags": ["physics", "chemistry", "biology", "space"],
       "questionCount": 8,
@@ -31,6 +34,7 @@
     {
       "title": "Blockbuster Movies",
       "subject": "Pop Culture",
+      "category": "Movies",
       "difficulty": "easy",
       "tags": ["movies", "film", "cinema", "blockbusters"],
       "questionCount": 8,
@@ -40,11 +44,532 @@
     {
       "title": "History Highlights",
       "subject": "History",
+      "category": "History",
       "difficulty": "medium",
       "tags": ["world history", "events", "figures", "wars"],
       "questionCount": 8,
       "estimatedMinutes": 5,
       "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/history-highlights.json"
+    },
+    {
+      "title": "Elementary Math Fundamentals",
+      "subject": "Mathematics",
+      "category": "Classrooms",
+      "difficulty": "easy",
+      "tags": ["math", "arithmetic", "elementary", "fractions", "times tables"],
+      "questionCount": 10,
+      "estimatedMinutes": 4,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/elementary-math-fundamentals.json"
+    },
+    {
+      "title": "World Geography & Capitals",
+      "subject": "Geography",
+      "category": "Classrooms",
+      "difficulty": "medium",
+      "tags": ["geography", "capitals", "countries", "world"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/world-geography-capitals.json"
+    },
+    {
+      "title": "Basic Grammar & Spelling",
+      "subject": "English",
+      "category": "Classrooms",
+      "difficulty": "easy",
+      "tags": ["grammar", "spelling", "English", "literacy"],
+      "questionCount": 10,
+      "estimatedMinutes": 4,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/basic-grammar-spelling.json"
+    },
+    {
+      "title": "High School Biology Review",
+      "subject": "Biology",
+      "category": "Classrooms",
+      "difficulty": "medium",
+      "tags": ["biology", "cells", "genetics", "ecology"],
+      "questionCount": 9,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/high-school-biology-review.json"
+    },
+    {
+      "title": "Periodic Table of Elements",
+      "subject": "Chemistry",
+      "category": "Classrooms",
+      "difficulty": "hard",
+      "tags": ["chemistry", "elements", "periodic table", "science"],
+      "questionCount": 9,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/periodic-table-elements.json"
+    },
+    {
+      "title": "Cybersecurity Best Practices",
+      "subject": "IT & Technology",
+      "category": "Corporate",
+      "difficulty": "medium",
+      "tags": ["cybersecurity", "IT", "passwords", "phishing"],
+      "questionCount": 8,
+      "estimatedMinutes": 4,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/cybersecurity-best-practices.json"
+    },
+    {
+      "title": "Workplace Health and Safety",
+      "subject": "Health & Safety",
+      "category": "Corporate",
+      "difficulty": "easy",
+      "tags": ["health", "safety", "workplace", "HR"],
+      "questionCount": 8,
+      "estimatedMinutes": 4,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/workplace-health-safety.json"
+    },
+    {
+      "title": "General Knowledge Trivia",
+      "subject": "General Knowledge",
+      "category": "Parties",
+      "difficulty": "easy",
+      "tags": ["trivia", "fun", "general", "party"],
+      "questionCount": 10,
+      "estimatedMinutes": 4,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/general-knowledge-trivia.json"
+    },
+    {
+      "title": "The Ultimate Pop Culture Quiz",
+      "subject": "Pop Culture",
+      "category": "Parties",
+      "difficulty": "easy",
+      "tags": ["pop culture", "movies", "music", "TV", "party"],
+      "questionCount": 10,
+      "estimatedMinutes": 4,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/ultimate-pop-culture-quiz.json"
+    },
+    {
+      "title": "Viral Internet Trends",
+      "subject": "Internet Culture",
+      "category": "Parties",
+      "difficulty": "medium",
+      "tags": ["internet", "memes", "viral", "social media"],
+      "questionCount": 8,
+      "estimatedMinutes": 4,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/viral-internet-trends.json"
+    },
+    {
+      "title": "Food and Drink Around the World",
+      "subject": "Food & Culture",
+      "category": "Parties",
+      "difficulty": "easy",
+      "tags": ["food", "drink", "cuisine", "culture"],
+      "questionCount": 10,
+      "estimatedMinutes": 4,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/food-drink-around-world.json"
+    },
+    {
+      "title": "90s & 2000s Nostalgia",
+      "subject": "Pop Culture",
+      "category": "Parties",
+      "difficulty": "medium",
+      "tags": ["90s", "2000s", "nostalgia", "pop culture"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/nostalgia-90s-2000s.json"
+    },
+    {
+      "title": "2000s Sci-Fi & Psychological Dramas",
+      "subject": "Television",
+      "category": "TV",
+      "difficulty": "medium",
+      "tags": ["TV", "sci-fi", "drama", "2000s"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/2000s-scifi-psychological-dramas.json"
+    },
+    {
+      "title": "The Golden Age of Premium Cable",
+      "subject": "Television",
+      "category": "TV",
+      "difficulty": "hard",
+      "tags": ["TV", "HBO", "cable", "prestige drama"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/golden-age-premium-cable.json"
+    },
+    {
+      "title": "2000s Medical & Legal Procedurals",
+      "subject": "Television",
+      "category": "TV",
+      "difficulty": "medium",
+      "tags": ["TV", "medical", "legal", "procedural", "2000s"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/2000s-medical-legal-procedurals.json"
+    },
+    {
+      "title": "Iconic Sitcoms of the 2000s",
+      "subject": "Television",
+      "category": "TV",
+      "difficulty": "medium",
+      "tags": ["TV", "sitcoms", "comedy", "2000s"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/iconic-sitcoms-2000s.json"
+    },
+    {
+      "title": "Teen Dramas of the Early 2000s",
+      "subject": "Television",
+      "category": "TV",
+      "difficulty": "medium",
+      "tags": ["TV", "teen drama", "2000s", "CW"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/teen-dramas-early-2000s.json"
+    },
+    {
+      "title": "Star Wars: The Skywalker Saga",
+      "subject": "Movies",
+      "category": "Movies",
+      "difficulty": "medium",
+      "tags": ["Star Wars", "movies", "sci-fi", "Disney"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/star-wars-skywalker-saga.json"
+    },
+    {
+      "title": "Blockbuster Action Thrillers",
+      "subject": "Movies",
+      "category": "Movies",
+      "difficulty": "easy",
+      "tags": ["movies", "action", "thriller", "blockbuster"],
+      "questionCount": 10,
+      "estimatedMinutes": 4,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/blockbuster-action-thrillers.json"
+    },
+    {
+      "title": "Oscar-Winning Best Pictures",
+      "subject": "Movies",
+      "category": "Movies",
+      "difficulty": "hard",
+      "tags": ["movies", "Oscars", "Academy Awards", "film"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/oscar-winning-best-pictures.json"
+    },
+    {
+      "title": "Superhero Cinematic Universes",
+      "subject": "Movies",
+      "category": "Movies",
+      "difficulty": "easy",
+      "tags": ["movies", "superheroes", "Marvel", "DC"],
+      "questionCount": 10,
+      "estimatedMinutes": 4,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/superhero-cinematic-universes.json"
+    },
+    {
+      "title": "Classic Animated Features",
+      "subject": "Movies",
+      "category": "Movies",
+      "difficulty": "easy",
+      "tags": ["animation", "Disney", "Pixar", "movies"],
+      "questionCount": 10,
+      "estimatedMinutes": 4,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/classic-animated-features.json"
+    },
+    {
+      "title": "History of Iconic Rock Bands",
+      "subject": "Music",
+      "category": "Music",
+      "difficulty": "medium",
+      "tags": ["music", "rock", "bands", "history"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/history-iconic-rock-bands.json"
+    },
+    {
+      "title": "One-Hit Wonders: Artist Edition",
+      "subject": "Music",
+      "category": "Music",
+      "difficulty": "medium",
+      "tags": ["music", "one-hit wonders", "pop", "trivia"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/one-hit-wonders-artists.json"
+    },
+    {
+      "title": "Legendary Music Producers & Songwriters",
+      "subject": "Music",
+      "category": "Music",
+      "difficulty": "hard",
+      "tags": ["music", "producers", "songwriters", "industry"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/legendary-music-producers-songwriters.json"
+    },
+    {
+      "title": "Evolution of Hip Hop & R&B",
+      "subject": "Music",
+      "category": "Music",
+      "difficulty": "medium",
+      "tags": ["music", "hip hop", "R&B", "rap"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/evolution-hip-hop-rnb.json"
+    },
+    {
+      "title": "Famous Music Festivals & Venues",
+      "subject": "Music",
+      "category": "Music",
+      "difficulty": "medium",
+      "tags": ["music", "festivals", "venues", "live music"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/famous-music-festivals-venues.json"
+    },
+    {
+      "title": "Summer Olympic History",
+      "subject": "Sport",
+      "category": "Sport",
+      "difficulty": "medium",
+      "tags": ["Olympics", "sport", "history", "athletics"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/summer-olympic-history.json"
+    },
+    {
+      "title": "Football (Soccer) World Cups",
+      "subject": "Sport",
+      "category": "Sport",
+      "difficulty": "medium",
+      "tags": ["football", "soccer", "World Cup", "FIFA"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/football-world-cups.json"
+    },
+    {
+      "title": "NBA Legends & Stats",
+      "subject": "Sport",
+      "category": "Sport",
+      "difficulty": "medium",
+      "tags": ["basketball", "NBA", "sport", "legends"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/nba-legends-stats.json"
+    },
+    {
+      "title": "Extreme Sports Trivia",
+      "subject": "Sport",
+      "category": "Sport",
+      "difficulty": "medium",
+      "tags": ["extreme sports", "sport", "action", "adventure"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/extreme-sports-trivia.json"
+    },
+    {
+      "title": "Famous Sporting Venues",
+      "subject": "Sport",
+      "category": "Sport",
+      "difficulty": "medium",
+      "tags": ["sport", "venues", "stadiums", "arenas"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/famous-sporting-venues.json"
+    },
+    {
+      "title": "The Solar System & Space Exploration",
+      "subject": "Science",
+      "category": "Science",
+      "difficulty": "medium",
+      "tags": ["space", "science", "planets", "NASA"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/solar-system-space-exploration.json"
+    },
+    {
+      "title": "Human Anatomy Basics",
+      "subject": "Science",
+      "category": "Science",
+      "difficulty": "medium",
+      "tags": ["anatomy", "biology", "health", "science"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/human-anatomy-basics.json"
+    },
+    {
+      "title": "Famous Scientists & Inventors",
+      "subject": "Science",
+      "category": "Science",
+      "difficulty": "medium",
+      "tags": ["science", "history", "inventors", "discovery"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/famous-scientists-inventors.json"
+    },
+    {
+      "title": "Earth Science & Weather",
+      "subject": "Science",
+      "category": "Science",
+      "difficulty": "medium",
+      "tags": ["earth science", "weather", "climate", "geology"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/earth-science-weather.json"
+    },
+    {
+      "title": "Physics in Everyday Life",
+      "subject": "Science",
+      "category": "Science",
+      "difficulty": "medium",
+      "tags": ["physics", "science", "everyday", "concepts"],
+      "questionCount": 10,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/physics-everyday-life.json"
+    },
+    {
+      "title": "Ancient Egypt & Rome",
+      "subject": "History",
+      "category": "History",
+      "difficulty": "medium",
+      "tags": ["ancient history", "Egypt", "Rome", "history"],
+      "questionCount": 8,
+      "estimatedMinutes": 4,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/ancient-egypt-rome.json"
+    },
+    {
+      "title": "World War II Events",
+      "subject": "History",
+      "category": "History",
+      "difficulty": "medium",
+      "tags": ["WWII", "World War 2", "history", "war", "events"],
+      "questionCount": 8,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/world-war-ii-events.json"
+    },
+    {
+      "title": "Famous Historical Figures",
+      "subject": "History",
+      "category": "History",
+      "difficulty": "medium",
+      "tags": ["history", "famous people", "biography", "leaders", "icons"],
+      "questionCount": 9,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/famous-historical-figures.json"
+    },
+    {
+      "title": "The Industrial Revolution",
+      "subject": "History",
+      "category": "History",
+      "difficulty": "medium",
+      "tags": ["industrial revolution", "history", "invention", "industry", "Victorian"],
+      "questionCount": 8,
+      "estimatedMinutes": 4,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/industrial-revolution.json"
+    },
+    {
+      "title": "Kings and Queens of Europe",
+      "subject": "History",
+      "category": "History",
+      "difficulty": "hard",
+      "tags": ["royalty", "kings", "queens", "Europe", "monarchy", "history"],
+      "questionCount": 9,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/kings-queens-europe.json"
+    },
+    {
+      "title": "Pokémon Generations & Evolutions",
+      "subject": "Gaming",
+      "category": "Gaming",
+      "difficulty": "medium",
+      "tags": ["Pokémon", "gaming", "Nintendo", "anime", "strategy"],
+      "questionCount": 8,
+      "estimatedMinutes": 4,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/pokemon-generations-evolutions.json"
+    },
+    {
+      "title": "Retro Gaming: The PS2 Era",
+      "subject": "Gaming",
+      "category": "Gaming",
+      "difficulty": "medium",
+      "tags": ["PS2", "retro gaming", "PlayStation", "Xbox", "GameCube", "2000s"],
+      "questionCount": 8,
+      "estimatedMinutes": 4,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/retro-gaming-ps2-era.json"
+    },
+    {
+      "title": "E-Sports Tournaments & Champions",
+      "subject": "Gaming",
+      "category": "Gaming",
+      "difficulty": "hard",
+      "tags": ["esports", "competitive gaming", "tournaments", "pro gaming", "streaming"],
+      "questionCount": 8,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/esports-tournaments-champions.json"
+    },
+    {
+      "title": "Indie Game Masterpieces",
+      "subject": "Gaming",
+      "category": "Gaming",
+      "difficulty": "medium",
+      "tags": ["indie games", "gaming", "Steam", "pixel art", "indie"],
+      "questionCount": 8,
+      "estimatedMinutes": 4,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/indie-game-masterpieces.json"
+    },
+    {
+      "title": "History of Nintendo Consoles",
+      "subject": "Gaming",
+      "category": "Gaming",
+      "difficulty": "medium",
+      "tags": ["Nintendo", "gaming history", "consoles", "NES", "SNES", "Switch"],
+      "questionCount": 8,
+      "estimatedMinutes": 4,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/history-nintendo-consoles.json"
+    },
+    {
+      "title": "Advanced General Trivia",
+      "subject": "General Knowledge",
+      "category": "Parties",
+      "difficulty": "hard",
+      "tags": ["trivia", "advanced", "general knowledge", "challenging"],
+      "questionCount": 10,
+      "estimatedMinutes": 6,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/advanced-general-trivia.json"
+    },
+    {
+      "title": "Expert General Trivia",
+      "subject": "General Knowledge",
+      "category": "Parties",
+      "difficulty": "hard",
+      "tags": ["trivia", "expert", "general knowledge", "obscure facts"],
+      "questionCount": 10,
+      "estimatedMinutes": 7,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/expert-general-trivia.json"
+    },
+    {
+      "title": "Australia General Trivia: Advanced",
+      "subject": "Geography & Culture",
+      "category": "Parties",
+      "difficulty": "hard",
+      "tags": ["Australia", "geography", "culture", "wildlife", "history"],
+      "questionCount": 10,
+      "estimatedMinutes": 6,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/australia-general-trivia-advanced.json"
+    },
+    {
+      "title": "Australia General Trivia: Expert",
+      "subject": "Geography & Culture",
+      "category": "Parties",
+      "difficulty": "hard",
+      "tags": ["Australia", "expert", "history", "culture", "Aboriginal"],
+      "questionCount": 10,
+      "estimatedMinutes": 7,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/australia-general-trivia-expert.json"
+    },
+    {
+      "title": "Melbourne Trivia: Advanced",
+      "subject": "Geography & Culture",
+      "category": "Parties",
+      "difficulty": "hard",
+      "tags": ["Melbourne", "Australia", "culture", "sports", "city"],
+      "questionCount": 8,
+      "estimatedMinutes": 5,
+      "quizUrl": "https://cdn.jsdelivr.net/gh/kylejckson/questron-library@main/melbourne-trivia-advanced.json"
     }
   ]
 }

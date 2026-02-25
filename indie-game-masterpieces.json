@@ -1,0 +1,114 @@
+{
+  "title": "Indie Game Masterpieces",
+  "meta": {
+    "description": "Small studios, huge hearts — test your knowledge of the indie games that changed the industry.",
+    "subject": "Gaming",
+    "category": "Gaming",
+    "tags": ["indie games", "gaming", "Steam", "pixel art", "indie"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 4,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Undertale, released in 2015, was largely created by a single developer. What is their name?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Jonathan Blow" },
+        { "id": "b", "label": "Toby Fox" },
+        { "id": "c", "label": "Phil Fish" },
+        { "id": "d", "label": "Edmund McMillen" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "In Stardew Valley, you inherit a run-down farm from which relative?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Your uncle" },
+        { "id": "b", "label": "Your father" },
+        { "id": "c", "label": "Your grandfather" },
+        { "id": "d", "label": "Your aunt" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "Hollow Knight is set in the underground ruined kingdom of Hallownest, which is populated by what type of creatures?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Skeletal warriors" },
+        { "id": "b", "label": "Anthropomorphic bugs and insects" },
+        { "id": "c", "label": "Elves and dwarves" },
+        { "id": "d", "label": "Sentient mushrooms" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q4",
+      "text": "Celeste tells the story of a young woman climbing a mountain while dealing with mental health themes. What is the mountain's name?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Mount Everest" },
+        { "id": "b", "label": "Mount Celeste" },
+        { "id": "c", "label": "Crystal Peak" },
+        { "id": "d", "label": "Summit Ridge" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "Minecraft was originally created and released as an indie game in 2009 by which Swedish developer?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Markus Persson (Notch)" },
+        { "id": "b", "label": "Jens Bergensten" },
+        { "id": "c", "label": "Erik Westphal" },
+        { "id": "d", "label": "Daniel Rosenfeld" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q6",
+      "text": "Shovel Knight is a tribute to classic NES-era games, and the playable knight uses what as their main weapon?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "A sword" },
+        { "id": "b", "label": "A shovel" },
+        { "id": "c", "label": "A lance" },
+        { "id": "d", "label": "A broom" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q7",
+      "text": "Which critically acclaimed indie roguelike by Supergiant Games is set in the Greek underworld and stars the son of Hades as the protagonist?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Bastion" },
+        { "id": "b", "label": "Transistor" },
+        { "id": "c", "label": "Pyre" },
+        { "id": "d", "label": "Hades" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q8",
+      "text": "In the 2D puzzle platformer Braid (2008), the protagonist Jonathan has an unusual ability — what is it?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "He can walk through walls" },
+        { "id": "b", "label": "He can rewind time" },
+        { "id": "c", "label": "He can clone himself" },
+        { "id": "d", "label": "He can bend gravity" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

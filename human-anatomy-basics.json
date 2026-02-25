@@ -1,0 +1,114 @@
+{
+  "title": "Human Anatomy Basics",
+  "meta": {
+    "description": "Bones, muscles, organs, and systems — how well do you know the human body?",
+    "subject": "Science",
+    "category": "Science",
+    "tags": ["anatomy", "human body", "biology", "health", "science"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "How many bones does the adult human body have?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "196" },
+        { "id": "b", "label": "206" },
+        { "id": "c", "label": "216" },
+        { "id": "d", "label": "226" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "What is the largest organ in the human body?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Liver" },
+        { "id": "b", "label": "Brain" },
+        { "id": "c", "label": "Skin" },
+        { "id": "d", "label": "Heart" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "What is the longest bone in the human body?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Tibia" },
+        { "id": "b", "label": "Humerus" },
+        { "id": "c", "label": "Femur" },
+        { "id": "d", "label": "Fibula" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "How many chambers does the human heart have?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "2" },
+        { "id": "b", "label": "3" },
+        { "id": "c", "label": "4" },
+        { "id": "d", "label": "5" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q5",
+      "text": "Which part of the brain is primarily responsible for balance and coordination?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Cerebrum" },
+        { "id": "b", "label": "Hippocampus" },
+        { "id": "c", "label": "Brain stem" },
+        { "id": "d", "label": "Cerebellum" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q6",
+      "text": "What is the name of the tube that connects the mouth to the stomach?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Trachea" },
+        { "id": "b", "label": "Oesophagus" },
+        { "id": "c", "label": "Duodenum" },
+        { "id": "d", "label": "Larynx" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q7",
+      "text": "What is the smallest bone in the human body?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Stapes (in the ear)" },
+        { "id": "b", "label": "Carpals (in the wrist)" },
+        { "id": "c", "label": "Coccyx (tailbone)" },
+        { "id": "d", "label": "Patella (kneecap)" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q8",
+      "text": "The human body has approximately how many muscles?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "300" },
+        { "id": "b", "label": "400" },
+        { "id": "c", "label": "600" },
+        { "id": "d", "label": "800" }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  ]
+}

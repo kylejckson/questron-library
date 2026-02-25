@@ -1,0 +1,114 @@
+{
+  "title": "Viral Internet Trends",
+  "meta": {
+    "description": "From the Ice Bucket Challenge to NPC streams — how well do you remember the internet's wildest moments?",
+    "subject": "Pop Culture",
+    "category": "Parties",
+    "tags": ["internet", "memes", "viral", "trends", "social media"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 4,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What was the charity challenge that involved pouring ice-cold water over your head?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Cold Bucket Challenge" },
+        { "id": "b", "label": "Ice Bucket Challenge" },
+        { "id": "c", "label": "Freeze Challenge" },
+        { "id": "d", "label": "Arctic Challenge" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "What famous debate about a dress went viral in 2015 — what were the disputed colours?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Red and white OR pink and grey" },
+        { "id": "b", "label": "Black and blue OR white and gold" },
+        { "id": "c", "label": "Green and black OR yellow and white" },
+        { "id": "d", "label": "Purple and grey OR silver and blue" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q3",
+      "text": "What is 'rickrolling'?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Tricking someone into watching a rick and morty clip" },
+        { "id": "b", "label": "Sending someone a fake link that plays Rick Astley's Never Gonna Give You Up" },
+        { "id": "c", "label": "A skateboarding trick popularised online" },
+        { "id": "d", "label": "A cooking trend involving rolling food" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q4",
+      "text": "Which internet challenge involved people eating a single-use laundry pod?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Tide Pod Challenge" },
+        { "id": "b", "label": "Soap Pod Challenge" },
+        { "id": "c", "label": "Detergent Dare" },
+        { "id": "d", "label": "Clean Eating Challenge" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q5",
+      "text": "What is 'FOMO' short for?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Fear Of Missing Out" },
+        { "id": "b", "label": "Feeling Of Major Overload" },
+        { "id": "c", "label": "Following Online Media Often" },
+        { "id": "d", "label": "Fear Of Major Opposition" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q6",
+      "text": "The 'Harlem Shake' meme involved what kind of video format?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Everyone dances in slow motion" },
+        { "id": "b", "label": "One person dances normally then everyone goes wild after the bass drops" },
+        { "id": "c", "label": "A group harlem shakes in unison to a countdown" },
+        { "id": "d", "label": "People freeze mid-dance" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q7",
+      "text": "What does 'GG' mean in online gaming culture?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Get Going" },
+        { "id": "b", "label": "Good Game" },
+        { "id": "c", "label": "Great Goal" },
+        { "id": "d", "label": "Go Again" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q8",
+      "text": "Which platform originally made the concept of 'stories' (24-hour disappearing content) famous?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Instagram" },
+        { "id": "b", "label": "Facebook" },
+        { "id": "c", "label": "Snapchat" },
+        { "id": "d", "label": "Twitter" }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  ]
+}

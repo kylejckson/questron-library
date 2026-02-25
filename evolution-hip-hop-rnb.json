@@ -1,0 +1,114 @@
+{
+  "title": "Evolution of Hip Hop & R&B",
+  "meta": {
+    "description": "From the Bronx block parties to global domination — test your knowledge of hip hop and R&B history.",
+    "subject": "Music",
+    "category": "Music",
+    "tags": ["hip hop", "R&B", "rap", "music history", "culture"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hip hop culture is said to have originated in which New York borough in the early 1970s?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Brooklyn" },
+        { "id": "b", "label": "Queens" },
+        { "id": "c", "label": "The Bronx" },
+        { "id": "d", "label": "Harlem" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q2",
+      "text": "Grandmaster Flash and the Furious Five are known for which 1982 song widely considered the first socially conscious rap record?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "The Breaks" },
+        { "id": "b", "label": "Rapper's Delight" },
+        { "id": "c", "label": "The Message" },
+        { "id": "d", "label": "White Lines" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "Which N.W.A member went on to become a legendary music producer with his own label, Aftermath Entertainment?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Ice Cube" },
+        { "id": "b", "label": "Eazy-E" },
+        { "id": "c", "label": "MC Ren" },
+        { "id": "d", "label": "Dr. Dre" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q4",
+      "text": "Tupac Shakur and The Notorious B.I.G. (Biggie) represented which two coast rivalry in 1990s hip hop?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "East Coast vs. West Coast" },
+        { "id": "b", "label": "South vs. North" },
+        { "id": "c", "label": "Midwest vs. East Coast" },
+        { "id": "d", "label": "West Coast vs. South" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q5",
+      "text": "Kendrick Lamar won the Pulitzer Prize for Music in 2018 for which album?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "good kid, m.A.A.d city" },
+        { "id": "b", "label": "To Pimp a Butterfly" },
+        { "id": "c", "label": "DAMN." },
+        { "id": "d", "label": "Mr. Morale & The Big Steppers" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "Which R&B artist released the landmark album 'Lemonade' in 2016?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Rihanna" },
+        { "id": "b", "label": "Alicia Keys" },
+        { "id": "c", "label": "Beyoncé" },
+        { "id": "d", "label": "Mary J. Blige" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "Which rapper released the album 'The Marshall Mathers LP' in 2000, which became one of the fastest-selling albums ever?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Jay-Z" },
+        { "id": "b", "label": "50 Cent" },
+        { "id": "c", "label": "Eminem" },
+        { "id": "d", "label": "Nas" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q8",
+      "text": "What does the acronym 'BPM' stand for in music production?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Bass Per Mix" },
+        { "id": "b", "label": "Beats Per Minute" },
+        { "id": "c", "label": "Beat Pattern Measure" },
+        { "id": "d", "label": "Bars Per Measure" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

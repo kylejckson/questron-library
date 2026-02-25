@@ -1,0 +1,114 @@
+{
+  "title": "Retro Gaming: The PS2 Era",
+  "meta": {
+    "description": "Cast your mind back to the early 2000s and the golden age of PlayStation 2, Xbox, and GameCube gaming.",
+    "subject": "Gaming",
+    "category": "Gaming",
+    "tags": ["PS2", "retro gaming", "PlayStation", "Xbox", "GameCube", "2000s"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 4,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "The PlayStation 2 launched in Japan in the year 2000. How many units did it sell worldwide, making it the best-selling console of all time?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Over 100 million" },
+        { "id": "b", "label": "Over 155 million" },
+        { "id": "c", "label": "Over 80 million" },
+        { "id": "d", "label": "Over 200 million" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "Grand Theft Auto: San Andreas was set in a fictional version of which US state?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Florida" },
+        { "id": "b", "label": "New York" },
+        { "id": "c", "label": "California" },
+        { "id": "d", "label": "Texas" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "Which Nintendo GameCube game starred a ghost-hunting Luigi exploring a haunted mansion?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Mario Sunshine" },
+        { "id": "b", "label": "Luigi's Mansion" },
+        { "id": "c", "label": "Haunted Kingdom" },
+        { "id": "d", "label": "Ghost Hunt" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q4",
+      "text": "Halo: Combat Evolved was a flagship launch title for which console?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "PlayStation 2" },
+        { "id": "b", "label": "GameCube" },
+        { "id": "c", "label": "Xbox" },
+        { "id": "d", "label": "Dreamcast" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q5",
+      "text": "In Shadow of the Colossus (PS2), what is the player's main objective throughout the game?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Collect ancient relics across an open world" },
+        { "id": "b", "label": "Defeat 16 giant colossi to revive a girl" },
+        { "id": "c", "label": "Navigate a cursed labyrinth" },
+        { "id": "d", "label": "Escape a crumbling empire" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q6",
+      "text": "Which PS2 game featured the line 'Do you want to cry?' and became a critically acclaimed action RPG by Capcom?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Devil May Cry" },
+        { "id": "b", "label": "Resident Evil 4" },
+        { "id": "c", "label": "Onimusha" },
+        { "id": "d", "label": "Black" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q7",
+      "text": "Which iconic PS2 game allowed players to explore a massive open city as Tommy Vercetti in a 1980s Miami-inspired setting?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "GTA III" },
+        { "id": "b", "label": "GTA: Vice City" },
+        { "id": "c", "label": "GTA: San Andreas" },
+        { "id": "d", "label": "Scarface: The World Is Yours" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q8",
+      "text": "The GameCube used a proprietary disc format. What was the approximate storage capacity of a GameCube disc?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "650 MB" },
+        { "id": "b", "label": "1.5 GB" },
+        { "id": "c", "label": "4.7 GB" },
+        { "id": "d", "label": "8 GB" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

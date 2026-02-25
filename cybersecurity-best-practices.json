@@ -1,0 +1,138 @@
+{
+  "title": "Cybersecurity Best Practices",
+  "meta": {
+    "description": "How well do you know how to stay safe online? Test your cybersecurity awareness!",
+    "subject": "Cybersecurity",
+    "category": "Corporate",
+    "tags": ["cybersecurity", "IT", "passwords", "phishing", "data protection"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What type of attack involves tricking someone into revealing sensitive information via a fake email?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Brute force attack" },
+        { "id": "b", "label": "Phishing" },
+        { "id": "c", "label": "SQL injection" },
+        { "id": "d", "label": "DDoS attack" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "What does 'HTTPS' indicate about a website?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "It is hosted on a government server" },
+        { "id": "b", "label": "The connection is encrypted and secure" },
+        { "id": "c", "label": "It has been verified by Google" },
+        { "id": "d", "label": "It does not store cookies" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q3",
+      "text": "Which of the following is the strongest password?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "password123" },
+        { "id": "b", "label": "MyDog2010" },
+        { "id": "c", "label": "Qx!9pL#3mW2" },
+        { "id": "d", "label": "1234567890" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "What is two-factor authentication (2FA)?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Logging in with two different browsers" },
+        { "id": "b", "label": "Using two passwords for the same account" },
+        { "id": "c", "label": "A second verification step beyond just a password" },
+        { "id": "d", "label": "Sharing login details with two people" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q5",
+      "text": "What is ransomware?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Software that monitors your internet speed" },
+        { "id": "b", "label": "Malware that encrypts your files and demands payment" },
+        { "id": "c", "label": "An anti-virus program sold at a premium price" },
+        { "id": "d", "label": "A firewall that blocks all external connections" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q6",
+      "text": "What should you do if you receive an unexpected email asking you to click a link and enter your login details?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Click the link and enter details if the email looks professional" },
+        { "id": "b", "label": "Forward it to a colleague to check" },
+        { "id": "c", "label": "Delete it and report it as phishing" },
+        { "id": "d", "label": "Reply asking for more information" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "What is a VPN primarily used for?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Speeding up internet connections" },
+        { "id": "b", "label": "Blocking all advertisements" },
+        { "id": "c", "label": "Encrypting internet traffic and masking IP addresses" },
+        { "id": "d", "label": "Filtering harmful websites automatically" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q8",
+      "text": "How often should you ideally update your passwords for critical accounts?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Never, unless breached" },
+        { "id": "b", "label": "Every day" },
+        { "id": "c", "label": "Periodically, especially if a breach is suspected" },
+        { "id": "d", "label": "Only when you forget them" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q9",
+      "text": "What is 'social engineering' in the context of cybersecurity?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Building online communities for IT professionals" },
+        { "id": "b", "label": "Manipulating people psychologically to gain confidential information" },
+        { "id": "c", "label": "Using social media to advertise security products" },
+        { "id": "d", "label": "Engineering secure social media platforms" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q10",
+      "text": "Which of these is the safest practice when using public Wi-Fi?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Access your bank account quickly to save time" },
+        { "id": "b", "label": "Use a VPN and avoid accessing sensitive accounts" },
+        { "id": "c", "label": "Share the Wi-Fi password with nearby friends" },
+        { "id": "d", "label": "Disable your firewall for faster access" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

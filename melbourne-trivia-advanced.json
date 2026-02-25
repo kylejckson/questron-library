@@ -1,0 +1,114 @@
+{
+  "title": "Melbourne Trivia: Advanced",
+  "meta": {
+    "description": "The cultural capital awaits — coffee culture, street art, sports, laneways, architecture, and all things Melbourne.",
+    "subject": "Geography & Culture",
+    "category": "Parties",
+    "tags": ["Melbourne", "Australia", "culture", "sports", "city"],
+    "difficulty": "hard",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 30,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Melbourne is famous for its laneway culture. Which laneway is particularly known for its street art and graffiti?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Hosier Lane" },
+        { "id": "b", "label": "Shot Tower Lane" },
+        { "id": "c", "label": "Union Lane" },
+        { "id": "d", "label": "Rutledge Lane" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q2",
+      "text": "What historic market, established in 1878, is a Melbourne institution known for fresh produce and food?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Prahran Market" },
+        { "id": "b", "label": "South Melbourne Market" },
+        { "id": "c", "label": "Queen Victoria Market" },
+        { "id": "d", "label": "Preston Market" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "The MCG (Melbourne Cricket Ground) is one of the largest stadiums in the world. What capacity does it hold?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Approximately 60,000" },
+        { "id": "b", "label": "Approximately 100,000" },
+        { "id": "c", "label": "Approximately 85,000" },
+        { "id": "d", "label": "Approximately 50,000" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "Which Australian Rules Football team, based in Melbourne, has won the most premierships in the AFL?",
+      "timeLimitSeconds": 30,
+      "options": [
+        { "id": "a", "label": "Essendon" },
+        { "id": "b", "label": "Hawthorn" },
+        { "id": "c", "label": "Carlton" },
+        { "id": "d", "label": "Collingwood" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q5",
+      "text": "What is the name of Melbourne's iconic art deco skyscraper, built in 1929, that was Australia's tallest building for decades?",
+      "timeLimitSeconds": 30,
+      "options": [
+        { "id": "a", "label": "Eureka Tower" },
+        { "id": "b", "label": "State Bank Building" },
+        { "id": "c", "label": "ICI House" },
+        { "id": "d", "label": "Rialto Towers" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "Melbourne is the coffee capital of Australia. What espresso-based drink, popular locally, is a 'single shot' espresso with a small amount of hot water?",
+      "timeLimitSeconds": 30,
+      "options": [
+        { "id": "a", "label": "Long black" },
+        { "id": "b", "label": "Short black" },
+        { "id": "c", "label": "Macchiato" },
+        { "id": "d", "label": "Flat white" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q7",
+      "text": "What major automotive manufacturer made Melbourne its Australian headquarters until it ceased production in 2017?",
+      "timeLimitSeconds": 30,
+      "options": [
+        { "id": "a", "label": "Toyota" },
+        { "id": "b", "label": "Ford" },
+        { "id": "c", "label": "Holden" },
+        { "id": "d", "label": "General Motors" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q8",
+      "text": "The famous horse race 'The Melbourne Cup' is held annually in which month?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "September" },
+        { "id": "b", "label": "October" },
+        { "id": "c", "label": "November" },
+        { "id": "d", "label": "December" }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  ]
+}

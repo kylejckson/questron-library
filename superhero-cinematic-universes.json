@@ -1,0 +1,114 @@
+{
+  "title": "Superhero Cinematic Universes",
+  "meta": {
+    "description": "From Tony Stark to Wonder Woman — test your knowledge of the MCU, DC, and beyond!",
+    "subject": "Movies",
+    "category": "Movies",
+    "tags": ["superhero", "MCU", "DC", "marvel", "movies"],
+    "difficulty": "easy",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Which Marvel film officially launched the Marvel Cinematic Universe in 2008?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Thor" },
+        { "id": "b", "label": "The Incredible Hulk" },
+        { "id": "c", "label": "Iron Man" },
+        { "id": "d", "label": "Captain America: The First Avenger" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q2",
+      "text": "Who snapped his fingers using the Infinity Gauntlet to wipe out half of all life in Avengers: Infinity War?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Iron Man" },
+        { "id": "b", "label": "Thor" },
+        { "id": "c", "label": "Thanos" },
+        { "id": "d", "label": "Ultron" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "In the DC Extended Universe, who directed the 2017 Wonder Woman film?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Zack Snyder" },
+        { "id": "b", "label": "Patty Jenkins" },
+        { "id": "c", "label": "Joss Whedon" },
+        { "id": "d", "label": "James Gunn" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q4",
+      "text": "Which actor has played Spider-Man in the largest number of MCU films?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Tobey Maguire" },
+        { "id": "b", "label": "Andrew Garfield" },
+        { "id": "c", "label": "Tom Holland" },
+        { "id": "d", "label": "Miles Morales (animated)" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q5",
+      "text": "In The Dark Knight trilogy, which actor plays Bruce Wayne / Batman?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Val Kilmer" },
+        { "id": "b", "label": "Ben Affleck" },
+        { "id": "c", "label": "George Clooney" },
+        { "id": "d", "label": "Christian Bale" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q6",
+      "text": "What is the name of the fictional African nation in Black Panther?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Genosha" },
+        { "id": "b", "label": "Latveria" },
+        { "id": "c", "label": "Wakanda" },
+        { "id": "d", "label": "Kahndaq" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "Who voices Rocket Raccoon in the Guardians of the Galaxy films?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Chris Pratt" },
+        { "id": "b", "label": "Vin Diesel" },
+        { "id": "c", "label": "Dave Bautista" },
+        { "id": "d", "label": "Bradley Cooper" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q8",
+      "text": "What phrase does Iron Man say to activate his suit's AI assistant throughout the MCU films?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Friday, suit up!" },
+        { "id": "b", "label": "Jarvis, online!" },
+        { "id": "c", "label": "I am Iron Man." },
+        { "id": "d", "label": "Activate Iron Man." }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  ]
+}

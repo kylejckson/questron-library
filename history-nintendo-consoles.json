@@ -1,0 +1,114 @@
+{
+  "title": "History of Nintendo Consoles",
+  "meta": {
+    "description": "From the NES to the Switch — explore the history of Nintendo's iconic home and handheld consoles.",
+    "subject": "Gaming",
+    "category": "Gaming",
+    "tags": ["Nintendo", "gaming history", "consoles", "NES", "SNES", "Switch"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 4,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "In what year did the original Nintendo Entertainment System (NES) launch in North America?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "1983" },
+        { "id": "b", "label": "1985" },
+        { "id": "c", "label": "1987" },
+        { "id": "d", "label": "1989" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "The Super Nintendo (SNES) was called what in Japan?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Famicom Super" },
+        { "id": "b", "label": "Super Famicom" },
+        { "id": "c", "label": "Neo Famicom" },
+        { "id": "d", "label": "Hyper Famicom" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q3",
+      "text": "The Nintendo 64 launched alongside which iconic launch title in 1996?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "The Legend of Zelda: Ocarina of Time" },
+        { "id": "b", "label": "Super Mario 64" },
+        { "id": "c", "label": "GoldenEye 007" },
+        { "id": "d", "label": "Donkey Kong 64" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q4",
+      "text": "The Nintendo GameCube used an unusual disc format. What shape were GameCube discs?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Standard DVD size" },
+        { "id": "b", "label": "Mini 8 cm discs" },
+        { "id": "c", "label": "Square cartridges" },
+        { "id": "d", "label": "Hexagonal discs" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "The Nintendo Wii introduced motion controls via a controller called what?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "PowerPad" },
+        { "id": "b", "label": "WiiMote (Wii Remote)" },
+        { "id": "c", "label": "MotionPlus" },
+        { "id": "d", "label": "Nunchuk" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q6",
+      "text": "The Nintendo DS was notable for which distinguishing feature compared to previous handhelds?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "A colour LCD screen" },
+        { "id": "b", "label": "Dual screens, one being a touchscreen" },
+        { "id": "c", "label": "Wireless multiplayer" },
+        { "id": "d", "label": "Built-in camera" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q7",
+      "text": "The Nintendo Switch launched in March 2017. What is unique about its design?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "It only plays digital games" },
+        { "id": "b", "label": "It can be played as both a home console and a portable device" },
+        { "id": "c", "label": "It uses virtual reality as its primary mode" },
+        { "id": "d", "label": "It has a built-in projector" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q8",
+      "text": "The Game Boy was released in 1989. What was the name of the killer app game that launched with it and drove hardware sales?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Super Mario Land" },
+        { "id": "b", "label": "Pokémon Red" },
+        { "id": "c", "label": "Tetris" },
+        { "id": "d", "label": "Kirby's Dream Land" }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  ]
+}

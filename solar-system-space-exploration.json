@@ -1,0 +1,114 @@
+{
+  "title": "The Solar System & Space Exploration",
+  "meta": {
+    "description": "Blast off into the cosmos! Test your knowledge of our solar system and humanity's greatest space missions.",
+    "subject": "Science",
+    "category": "Science",
+    "tags": ["space", "solar system", "NASA", "planets", "astronomy"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Which planet in our solar system has the most moons?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Jupiter" },
+        { "id": "b", "label": "Saturn" },
+        { "id": "c", "label": "Uranus" },
+        { "id": "d", "label": "Neptune" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "What is the name of NASA's first space shuttle, which completed its maiden flight in 1981?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Discovery" },
+        { "id": "b", "label": "Challenger" },
+        { "id": "c", "label": "Atlantis" },
+        { "id": "d", "label": "Columbia" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q3",
+      "text": "What is the approximate distance from Earth to the Sun in kilometres?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "15 million km" },
+        { "id": "b", "label": "150 million km" },
+        { "id": "c", "label": "1.5 billion km" },
+        { "id": "d", "label": "500 million km" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q4",
+      "text": "Which planet is known as the Red Planet?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Mercury" },
+        { "id": "b", "label": "Venus" },
+        { "id": "c", "label": "Mars" },
+        { "id": "d", "label": "Jupiter" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q5",
+      "text": "Who was the first human to walk on the Moon?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Buzz Aldrin" },
+        { "id": "b", "label": "Neil Armstrong" },
+        { "id": "c", "label": "Yuri Gagarin" },
+        { "id": "d", "label": "Michael Collins" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q6",
+      "text": "Pluto was reclassified from a planet to what in 2006?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "A comet" },
+        { "id": "b", "label": "An asteroid" },
+        { "id": "c", "label": "A dwarf planet" },
+        { "id": "d", "label": "A moon" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "What is the name of the rover NASA landed on Mars in February 2021?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Curiosity" },
+        { "id": "b", "label": "Perseverance" },
+        { "id": "c", "label": "Opportunity" },
+        { "id": "d", "label": "Ingenuity" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q8",
+      "text": "Which space telescope was launched in 1990 and has provided some of the most iconic images of the universe?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "James Webb Space Telescope" },
+        { "id": "b", "label": "Hubble Space Telescope" },
+        { "id": "c", "label": "Spitzer Space Telescope" },
+        { "id": "d", "label": "Chandra X-ray Observatory" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

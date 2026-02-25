@@ -1,0 +1,114 @@
+{
+  "title": "Famous Sporting Venues",
+  "meta": {
+    "description": "From Wembley to Wimbledon — test your knowledge of the world's most iconic sporting arenas!",
+    "subject": "Sport",
+    "category": "Sport",
+    "tags": ["sport", "venues", "stadiums", "history", "arenas"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 4,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Where is the Wimbledon tennis tournament held?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "London, England" },
+        { "id": "b", "label": "Paris, France" },
+        { "id": "c", "label": "Melbourne, Australia" },
+        { "id": "d", "label": "New York, USA" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q2",
+      "text": "The Camp Nou stadium, one of Europe's largest, is home to which football club?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Real Madrid" },
+        { "id": "b", "label": "Atlético Madrid" },
+        { "id": "c", "label": "Valencia CF" },
+        { "id": "d", "label": "FC Barcelona" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q3",
+      "text": "The Melbourne Cricket Ground (MCG) is famous for being the venue for which annual cricket fixture in Australia?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "The Sydney Test" },
+        { "id": "b", "label": "The Boxing Day Test" },
+        { "id": "c", "label": "The Ashes Opener" },
+        { "id": "d", "label": "The New Year's Test" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q4",
+      "text": "Augusta National Golf Club, home of The Masters, is located in which US state?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Florida" },
+        { "id": "b", "label": "South Carolina" },
+        { "id": "c", "label": "Georgia" },
+        { "id": "d", "label": "North Carolina" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q5",
+      "text": "Wembley Stadium is the home of which national football team?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Wales" },
+        { "id": "b", "label": "Scotland" },
+        { "id": "c", "label": "England" },
+        { "id": "d", "label": "Northern Ireland" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "The Indianapolis Motor Speedway is best known for hosting which annual race?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Daytona 500" },
+        { "id": "b", "label": "The Indy 500" },
+        { "id": "c", "label": "The US Grand Prix" },
+        { "id": "d", "label": "The Brickyard 400" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q7",
+      "text": "Madison Square Garden is home to which two New York sports teams?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "New York Yankees and New York Giants" },
+        { "id": "b", "label": "New York Knicks and New York Rangers" },
+        { "id": "c", "label": "New York Jets and New York Islanders" },
+        { "id": "d", "label": "Brooklyn Nets and New York Mets" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q8",
+      "text": "The Maracanã Stadium in Brazil is located in which city?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "São Paulo" },
+        { "id": "b", "label": "Brasília" },
+        { "id": "c", "label": "Rio de Janeiro" },
+        { "id": "d", "label": "Belo Horizonte" }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "title": "NBA Legends & Stats",
+  "meta": {
+    "description": "From Michael Jordan to LeBron James — how well do you know the legends of the NBA?",
+    "subject": "Sport",
+    "category": "Sport",
+    "tags": ["NBA", "basketball", "sport", "legends", "stats"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Who holds the record for most points scored in a single NBA game, with 100 points?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Michael Jordan" },
+        { "id": "b", "label": "Kareem Abdul-Jabbar" },
+        { "id": "c", "label": "LeBron James" },
+        { "id": "d", "label": "Wilt Chamberlain" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q2",
+      "text": "How many NBA championships did Michael Jordan win with the Chicago Bulls?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "4" },
+        { "id": "b", "label": "5" },
+        { "id": "c", "label": "6" },
+        { "id": "d", "label": "7" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "LeBron James surpassed which player's record to become the NBA's all-time leading scorer in 2023?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Kobe Bryant" },
+        { "id": "b", "label": "Karl Malone" },
+        { "id": "c", "label": "Wilt Chamberlain" },
+        { "id": "d", "label": "Kareem Abdul-Jabbar" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q4",
+      "text": "Which player is known by the nickname 'The Mailman'?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Charles Barkley" },
+        { "id": "b", "label": "Karl Malone" },
+        { "id": "c", "label": "John Stockton" },
+        { "id": "d", "label": "Patrick Ewing" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "Bill Russell won how many NBA Championships as a player?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "8" },
+        { "id": "b", "label": "9" },
+        { "id": "c", "label": "10" },
+        { "id": "d", "label": "11" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q6",
+      "text": "Which team did Kobe Bryant play for throughout his entire 20-year NBA career?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Boston Celtics" },
+        { "id": "b", "label": "Los Angeles Lakers" },
+        { "id": "c", "label": "Miami Heat" },
+        { "id": "d", "label": "Chicago Bulls" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q7",
+      "text": "Stephen Curry is widely credited with revolutionising the modern NBA game by doing what?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Popularising the mid-range shot" },
+        { "id": "b", "label": "Introducing the slam dunk as a art form" },
+        { "id": "c", "label": "Making the 3-point shot the dominant offensive weapon" },
+        { "id": "d", "label": "Bringing strong defence back to the NBA" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q8",
+      "text": "Magic Johnson and Larry Bird were fierce rivals in the 1980s, representing which two teams?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Chicago Bulls and Detroit Pistons" },
+        { "id": "b", "label": "LA Lakers and Boston Celtics" },
+        { "id": "c", "label": "LA Lakers and New York Knicks" },
+        { "id": "d", "label": "Philadelphia 76ers and Boston Celtics" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

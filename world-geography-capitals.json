@@ -1,0 +1,138 @@
+{
+  "title": "World Geography & Capitals",
+  "meta": {
+    "description": "From mountain ranges to river deltas, test your knowledge of the world's geography and capital cities.",
+    "subject": "Geography",
+    "category": "Classrooms",
+    "tags": ["geography", "capitals", "countries", "continents", "world"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What is the capital city of Australia?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Sydney" },
+        { "id": "b", "label": "Melbourne" },
+        { "id": "c", "label": "Canberra" },
+        { "id": "d", "label": "Brisbane" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q2",
+      "text": "Which is the world's longest river?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Amazon" },
+        { "id": "b", "label": "Yangtze" },
+        { "id": "c", "label": "Mississippi" },
+        { "id": "d", "label": "Nile" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q3",
+      "text": "What is the capital of Canada?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Toronto" },
+        { "id": "b", "label": "Ottawa" },
+        { "id": "c", "label": "Vancouver" },
+        { "id": "d", "label": "Montreal" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q4",
+      "text": "On which continent is the Sahara Desert located?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Asia" },
+        { "id": "b", "label": "South America" },
+        { "id": "c", "label": "Africa" },
+        { "id": "d", "label": "Australia" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q5",
+      "text": "What is the capital of Brazil?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "São Paulo" },
+        { "id": "b", "label": "Rio de Janeiro" },
+        { "id": "c", "label": "Brasília" },
+        { "id": "d", "label": "Salvador" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "Which country has the most natural lakes in the world?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Russia" },
+        { "id": "b", "label": "United States" },
+        { "id": "c", "label": "Canada" },
+        { "id": "d", "label": "Finland" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "Mount Everest is found on the border of which two countries?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "India and Tibet" },
+        { "id": "b", "label": "Nepal and Tibet (China)" },
+        { "id": "c", "label": "Nepal and India" },
+        { "id": "d", "label": "Bhutan and China" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q8",
+      "text": "What is the capital of South Africa?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Johannesburg" },
+        { "id": "b", "label": "Cape Town" },
+        { "id": "c", "label": "Pretoria" },
+        { "id": "d", "label": "South Africa has three capitals" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q9",
+      "text": "Which ocean is the largest in the world?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Atlantic Ocean" },
+        { "id": "b", "label": "Indian Ocean" },
+        { "id": "c", "label": "Arctic Ocean" },
+        { "id": "d", "label": "Pacific Ocean" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q10",
+      "text": "What is the capital of Japan?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Osaka" },
+        { "id": "b", "label": "Kyoto" },
+        { "id": "c", "label": "Tokyo" },
+        { "id": "d", "label": "Hiroshima" }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  ]
+}

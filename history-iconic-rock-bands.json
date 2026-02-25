@@ -1,0 +1,114 @@
+{
+  "title": "History of Iconic Rock Bands",
+  "meta": {
+    "description": "From the Beatles to Nirvana — how well do you know the greatest rock bands in history?",
+    "subject": "Music",
+    "category": "Music",
+    "tags": ["rock", "music", "bands", "history", "classic rock"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Which city are The Beatles originally from?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "London" },
+        { "id": "b", "label": "Manchester" },
+        { "id": "c", "label": "Liverpool" },
+        { "id": "d", "label": "Birmingham" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q2",
+      "text": "Who is the lead vocalist of The Rolling Stones?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Keith Richards" },
+        { "id": "b", "label": "Charlie Watts" },
+        { "id": "c", "label": "Ronnie Wood" },
+        { "id": "d", "label": "Mick Jagger" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q3",
+      "text": "Which Led Zeppelin song begins with one of rock's most recognisable guitar riffs?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Whole Lotta Love" },
+        { "id": "b", "label": "Kashmir" },
+        { "id": "c", "label": "Immigrant Song" },
+        { "id": "d", "label": "Stairway to Heaven" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q4",
+      "text": "Who was the lead singer of Queen?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Brian May" },
+        { "id": "b", "label": "Roger Taylor" },
+        { "id": "c", "label": "Freddie Mercury" },
+        { "id": "d", "label": "John Deacon" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q5",
+      "text": "Nirvana's 1991 album Nevermind features which iconic cover image?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "A screaming face painted in oil" },
+        { "id": "b", "label": "A baby swimming towards a dollar bill underwater" },
+        { "id": "c", "label": "A skull surrounded by roses" },
+        { "id": "d", "label": "A concert crowd shot in black and white" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q6",
+      "text": "Which band released the album The Joshua Tree in 1987?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "R.E.M." },
+        { "id": "b", "label": "Depeche Mode" },
+        { "id": "c", "label": "U2" },
+        { "id": "d", "label": "The Cure" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "AC/DC is originally from which country?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "United Kingdom" },
+        { "id": "b", "label": "United States" },
+        { "id": "c", "label": "Australia" },
+        { "id": "d", "label": "New Zealand" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q8",
+      "text": "Which band performed the famous Live Aid set at Wembley Stadium in 1985 that is widely considered the greatest live performance of all time?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "The Rolling Stones" },
+        { "id": "b", "label": "Led Zeppelin" },
+        { "id": "c", "label": "David Bowie" },
+        { "id": "d", "label": "Queen" }
+      ],
+      "correctOptionIds": ["d"]
+    }
+  ]
+}

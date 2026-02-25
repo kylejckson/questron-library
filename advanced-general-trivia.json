@@ -1,0 +1,138 @@
+{
+  "title": "Advanced General Trivia",
+  "meta": {
+    "description": "Step up your game with challenging questions spanning science, history, geography, and pop culture.",
+    "subject": "General Knowledge",
+    "category": "Parties",
+    "tags": ["trivia", "advanced", "general knowledge", "challenging"],
+    "difficulty": "hard",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 6,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 30,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Which element has the highest melting point of all known substances?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Tungsten" },
+        { "id": "b", "label": "Carbon (Diamond)" },
+        { "id": "c", "label": "Rhenium" },
+        { "id": "d", "label": "Osmium" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "What is the smallest country in the world by both area and population?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Monaco" },
+        { "id": "b", "label": "San Marino" },
+        { "id": "c", "label": "Vatican City" },
+        { "id": "d", "label": "Liechtenstein" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "Which philosophical concept describes the problem that a witness to a historical event is generally not the best person to write its history?",
+      "timeLimitSeconds": 30,
+      "options": [
+        { "id": "a", "label": "The Observer Effect" },
+        { "id": "b", "label": "The Rashomon Effect" },
+        { "id": "c", "label": "Presentism" },
+        { "id": "d", "label": "The Dunning-Kruger Effect" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q4",
+      "text": "What is the only mammal capable of true flight?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Flying squirrel" },
+        { "id": "b", "label": "Flying fish" },
+        { "id": "c", "label": "Bat" },
+        { "id": "d", "label": "Flying lemur" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q5",
+      "text": "In quantum mechanics, what is the name of the principle stating you cannot simultaneously know both the position and momentum of a particle?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Pauli Exclusion Principle" },
+        { "id": "b", "label": "Heisenberg Uncertainty Principle" },
+        { "id": "c", "label": "Planck's Constant" },
+        { "id": "d", "label": "The Double Slit Experiment" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q6",
+      "text": "Which ancient wonder of the world is the only one still standing?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "The Colossus of Rhodes" },
+        { "id": "b", "label": "The Great Pyramid of Giza" },
+        { "id": "c", "label": "The Hanging Gardens of Babylon" },
+        { "id": "d", "label": "The Lighthouse of Alexandria" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q7",
+      "text": "What does the acronym CRISPR stand for in the context of genetic engineering?",
+      "timeLimitSeconds": 30,
+      "options": [
+        { "id": "a", "label": "Clustered Regularly Interspaced Short Palindromic Repeats" },
+        { "id": "b", "label": "Cellular Regeneration and Immune System Protein Response" },
+        { "id": "c", "label": "Chemistry Reactive Ion Specialized Plasma Reaction" },
+        { "id": "d", "label": "Computational Restoration of Inherited Sequencing Patterns" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q8",
+      "text": "Which country is home to the Atacama Desert, one of the driest places on Earth?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Peru" },
+        { "id": "b", "label": "Bolivia" },
+        { "id": "c", "label": "Chile" },
+        { "id": "d", "label": "Argentina" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q9",
+      "text": "In literature, what term describes a narrative technique where the narrator is omniscient but focuses primarily on one character's perspective?",
+      "timeLimitSeconds": 30,
+      "options": [
+        { "id": "a", "label": "Third-person limited" },
+        { "id": "b", "label": "Stream of consciousness" },
+        { "id": "c", "label": "Unreliable narrator" },
+        { "id": "d", "label": "Free indirect discourse" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q10",
+      "text": "What is the name of the supercontinent that existed approximately 335 million years ago?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Gondwana" },
+        { "id": "b", "label": "Laurasia" },
+        { "id": "c", "label": "Pannotia" },
+        { "id": "d", "label": "Pangaea" }
+      ],
+      "correctOptionIds": ["d"]
+    }
+  ]
+}

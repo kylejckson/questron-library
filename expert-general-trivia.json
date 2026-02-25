@@ -1,0 +1,138 @@
+{
+  "title": "Expert General Trivia",
+  "meta": {
+    "description": "Only for the truly knowledgeable — obscure facts, deep history, and esoteric knowledge across all domains.",
+    "subject": "General Knowledge",
+    "category": "Parties",
+    "tags": ["trivia", "expert", "general knowledge", "obscure facts"],
+    "difficulty": "hard",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 7,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 35,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What is the only letter that does not appear on the periodic table of elements?",
+      "timeLimitSeconds": 30,
+      "options": [
+        { "id": "a", "label": "J" },
+        { "id": "b", "label": "Q" },
+        { "id": "c", "label": "X" },
+        { "id": "d", "label": "Z" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q2",
+      "text": "Which Byzantine Emperor famously reduced his empire to rubble during the Nika Riots of 532 CE before reasserting control?",
+      "timeLimitSeconds": 35,
+      "options": [
+        { "id": "a", "label": "Justinian I" },
+        { "id": "b", "label": "Basil II" },
+        { "id": "c", "label": "Constantine VII" },
+        { "id": "d", "label": "Leo III" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q3",
+      "text": "What mathematical constant is approximately 1.618 and appears frequently in nature, art, and architecture?",
+      "timeLimitSeconds": 30,
+      "options": [
+        { "id": "a", "label": "The Golden Ratio (Phi)" },
+        { "id": "b", "label": "Euler's Number (e)" },
+        { "id": "c", "label": "Pi (π)" },
+        { "id": "d", "label": "Tau (τ)" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q4",
+      "text": "In chemistry, what is the name of the phenomenon where a substance can exist in two or more crystalline forms?",
+      "timeLimitSeconds": 35,
+      "options": [
+        { "id": "a", "label": "Isomerism" },
+        { "id": "b", "label": "Polymorphism" },
+        { "id": "c", "label": "Enantiomerism" },
+        { "id": "d", "label": "Allotropism" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "Who was the first African-American to win a Nobel Prize, and in which year?",
+      "timeLimitSeconds": 35,
+      "options": [
+        { "id": "a", "label": "Martin Luther King Jr. in 1964" },
+        { "id": "b", "label": "Ralph Bunche in 1950" },
+        { "id": "c", "label": "James E. Murray in 1995" },
+        { "id": "d", "label": "Kofi Annan in 2001" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q6",
+      "text": "What is the technical name for the condition where the human eye can perceive more shades of red than any other colour?",
+      "timeLimitSeconds": 30,
+      "options": [
+        { "id": "a", "label": "Red sensitivity dominance" },
+        { "id": "b", "label": "Chromatic aberration" },
+        { "id": "c", "label": "Photopic luminosity function" },
+        { "id": "d", "label": "Red-green dichromacy" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "Which nation ratified the first written constitution in the modern world?",
+      "timeLimitSeconds": 30,
+      "options": [
+        { "id": "a", "label": "France (1789)" },
+        { "id": "b", "label": "United States (1789)" },
+        { "id": "c", "label": "Poland (1791)" },
+        { "id": "d", "label": "Belgium (1830)" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q8",
+      "text": "What is the name of the theoretical boundary around a black hole beyond which nothing can escape?",
+      "timeLimitSeconds": 30,
+      "options": [
+        { "id": "a", "label": "Singularity" },
+        { "id": "b", "label": "Photon sphere" },
+        { "id": "c", "label": "Event horizon" },
+        { "id": "d", "label": "Schwarzschild radius" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q9",
+      "text": "Which extinct hominid species is known for burying their dead and may have had a form of language?",
+      "timeLimitSeconds": 35,
+      "options": [
+        { "id": "a", "label": "Homo habilis" },
+        { "id": "b", "label": "Homo erectus" },
+        { "id": "c", "label": "Homo neanderthalensis" },
+        { "id": "d", "label": "Homo floresiensis" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q10",
+      "text": "In music theory, what is the term for a chord containing all twelve pitches of the chromatic scale?",
+      "timeLimitSeconds": 35,
+      "options": [
+        { "id": "a", "label": "Polytonality" },
+        { "id": "b", "label": "Aggregate" },
+        { "id": "c", "label": "Pandiatonicism" },
+        { "id": "d", "label": "Tone cluster" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

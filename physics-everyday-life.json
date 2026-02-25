@@ -1,0 +1,114 @@
+{
+  "title": "Physics in Everyday Life",
+  "meta": {
+    "description": "Physics isn't just for classrooms — it's everywhere! Test your knowledge of the science behind everyday things.",
+    "subject": "Science",
+    "category": "Science",
+    "tags": ["physics", "science", "everyday life", "forces", "energy"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What is the approximate speed of light in a vacuum?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "30,000 km/s" },
+        { "id": "b", "label": "300,000 km/s" },
+        { "id": "c", "label": "3,000,000 km/s" },
+        { "id": "d", "label": "3,000 km/s" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "Why do objects float in water? Which scientific principle explains this?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Newton's Second Law" },
+        { "id": "b", "label": "Archimedes' Principle" },
+        { "id": "c", "label": "Pascal's Principle" },
+        { "id": "d", "label": "Bernoulli's Principle" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q3",
+      "text": "An object in motion stays in motion unless acted on by an external force. This is Newton's which law?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Newton's Third Law" },
+        { "id": "b", "label": "Newton's Second Law" },
+        { "id": "c", "label": "Newton's First Law" },
+        { "id": "d", "label": "Newton's Fourth Law" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "Why does a rainbow form after rain?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Reflection of sunlight off clouds" },
+        { "id": "b", "label": "Refraction and dispersion of sunlight through water droplets" },
+        { "id": "c", "label": "Diffraction of light around water vapour" },
+        { "id": "d", "label": "Absorption of UV light by moisture" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "What unit measures electrical resistance?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Watt" },
+        { "id": "b", "label": "Ampere" },
+        { "id": "c", "label": "Volt" },
+        { "id": "d", "label": "Ohm" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q6",
+      "text": "On the Celsius scale, at what temperature does water boil at sea level?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "90°C" },
+        { "id": "b", "label": "95°C" },
+        { "id": "c", "label": "100°C" },
+        { "id": "d", "label": "212°C" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "What type of energy does a moving object possess?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Potential energy" },
+        { "id": "b", "label": "Thermal energy" },
+        { "id": "c", "label": "Kinetic energy" },
+        { "id": "d", "label": "Chemical energy" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q8",
+      "text": "Which force keeps the planets in orbit around the Sun?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Magnetic force" },
+        { "id": "b", "label": "Centrifugal force" },
+        { "id": "c", "label": "Nuclear force" },
+        { "id": "d", "label": "Gravity" }
+      ],
+      "correctOptionIds": ["d"]
+    }
+  ]
+}

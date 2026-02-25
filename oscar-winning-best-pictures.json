@@ -1,0 +1,114 @@
+{
+  "title": "Oscar-Winning Best Pictures",
+  "meta": {
+    "description": "Lights, camera, Oscar! How well do you know the films that took home Hollywood's greatest prize?",
+    "subject": "Movies",
+    "category": "Movies",
+    "tags": ["oscars", "academy awards", "best picture", "movies", "cinema"],
+    "difficulty": "hard",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Which 2019 film became the first non-English-language film to win the Academy Award for Best Picture?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Roma" },
+        { "id": "b", "label": "Parasite" },
+        { "id": "c", "label": "The Artist" },
+        { "id": "d", "label": "Life is Beautiful" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "Which film won Best Picture at the 2003 Academy Awards and is also the longest film to ever win that award?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Gladiator" },
+        { "id": "b", "label": "Chicago" },
+        { "id": "c", "label": "The Lord of the Rings: Return of the King" },
+        { "id": "d", "label": "A Beautiful Mind" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "The 2009 Best Picture winner The Hurt Locker was directed by whom?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Steven Spielberg" },
+        { "id": "b", "label": "Kathryn Bigelow" },
+        { "id": "c", "label": "James Cameron" },
+        { "id": "d", "label": "Ridley Scott" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q4",
+      "text": "Which film won Best Picture in 2017 after the infamous envelope mix-up on stage?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "La La Land" },
+        { "id": "b", "label": "Fences" },
+        { "id": "c", "label": "Moonlight" },
+        { "id": "d", "label": "Arrival" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q5",
+      "text": "How many Academy Award nominations did Titanic (1997) receive?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "11" },
+        { "id": "b", "label": "13" },
+        { "id": "c", "label": "14" },
+        { "id": "d", "label": "10" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "Which 2004 film won Best Picture despite being considered a surprise by many critics?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Million Dollar Baby" },
+        { "id": "b", "label": "Ray" },
+        { "id": "c", "label": "Crash" },
+        { "id": "d", "label": "Brokeback Mountain" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "The Silence of the Lambs won Best Picture in 1992. Who played Dr. Hannibal Lecter?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Gary Oldman" },
+        { "id": "b", "label": "Anthony Hopkins" },
+        { "id": "c", "label": "Brian Cox" },
+        { "id": "d", "label": "Ralph Fiennes" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q8",
+      "text": "Which Best Picture winner told the true story of the Boston Globe's investigation into child abuse?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "The Big Short" },
+        { "id": "b", "label": "Spotlight" },
+        { "id": "c", "label": "All the President's Men" },
+        { "id": "d", "label": "Zodiac" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

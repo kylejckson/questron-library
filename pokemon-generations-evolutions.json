@@ -1,0 +1,114 @@
+{
+  "title": "Pokémon Generations & Evolutions",
+  "meta": {
+    "description": "Gotta know 'em all! Test your Pokémon knowledge across generations, evolutions, types, and legendary creatures.",
+    "subject": "Gaming",
+    "category": "Gaming",
+    "tags": ["Pokémon", "gaming", "Nintendo", "anime", "strategy"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 4,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Which Pokémon is #001 in the original National Pokédex?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Pikachu" },
+        { "id": "b", "label": "Charmander" },
+        { "id": "c", "label": "Bulbasaur" },
+        { "id": "d", "label": "Squirtle" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q2",
+      "text": "What type is the Legendary Pokémon Mewtwo?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Psychic" },
+        { "id": "b", "label": "Normal" },
+        { "id": "c", "label": "Ghost" },
+        { "id": "d", "label": "Dark" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q3",
+      "text": "Eevee can evolve into how many different Pokémon as of Generation VIII (Sword & Shield)?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "6" },
+        { "id": "b", "label": "7" },
+        { "id": "c", "label": "8" },
+        { "id": "d", "label": "9" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "In Generation II, which new region was introduced as the setting for Pokémon Gold and Silver?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Hoenn" },
+        { "id": "b", "label": "Johto" },
+        { "id": "c", "label": "Sinnoh" },
+        { "id": "d", "label": "Unova" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "Which Pokémon is known as 'The Original One' and is said to have created the Pokémon universe?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Ho-Oh" },
+        { "id": "b", "label": "Dialga" },
+        { "id": "c", "label": "Arceus" },
+        { "id": "d", "label": "Mew" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "What is the final evolution of Charmander?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Charizard" },
+        { "id": "b", "label": "Charmeleon" },
+        { "id": "c", "label": "Arcanine" },
+        { "id": "d", "label": "Dragonite" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q7",
+      "text": "Which item is used to evolve Pikachu into Raichu?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Moon Stone" },
+        { "id": "b", "label": "Fire Stone" },
+        { "id": "c", "label": "Thunder Stone" },
+        { "id": "d", "label": "Sun Stone" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q8",
+      "text": "Pokémon Scarlet and Violet were set in a region inspired by which real-world location?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "France" },
+        { "id": "b", "label": "Spain and Portugal" },
+        { "id": "c", "label": "Italy" },
+        { "id": "d", "label": "Greece" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

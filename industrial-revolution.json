@@ -1,0 +1,114 @@
+{
+  "title": "The Industrial Revolution",
+  "meta": {
+    "description": "Steam engines, factories, and social upheaval — explore the era that transformed the modern world.",
+    "subject": "History",
+    "category": "History",
+    "tags": ["industrial revolution", "history", "invention", "industry", "Victorian"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 4,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "In which country did the Industrial Revolution begin in the late 18th century?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "France" },
+        { "id": "b", "label": "Germany" },
+        { "id": "c", "label": "Britain" },
+        { "id": "d", "label": "United States" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q2",
+      "text": "Who is credited with developing an efficient steam engine that powered much of the Industrial Revolution?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Richard Arkwright" },
+        { "id": "b", "label": "James Watt" },
+        { "id": "c", "label": "George Stephenson" },
+        { "id": "d", "label": "Isambard Kingdom Brunel" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q3",
+      "text": "What was the name of the first commercially successful steam-powered railway locomotive, built by George Stephenson?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "The Iron Duke" },
+        { "id": "b", "label": "The Puffing Billy" },
+        { "id": "c", "label": "The Rocket" },
+        { "id": "d", "label": "The Fury" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "The Spinning Jenny, a multi-spindle textile machine, was invented by which Englishman?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Eli Whitney" },
+        { "id": "b", "label": "Edmund Cartwright" },
+        { "id": "c", "label": "Richard Arkwright" },
+        { "id": "d", "label": "James Hargreaves" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q5",
+      "text": "What term describes the movement of people from rural areas to cities during the Industrial Revolution?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Gentrification" },
+        { "id": "b", "label": "Urbanisation" },
+        { "id": "c", "label": "Suburbanisation" },
+        { "id": "d", "label": "Migration flux" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q6",
+      "text": "Which notorious system exploited children as young as five in factories and mines during the Industrial Revolution?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Serfdom" },
+        { "id": "b", "label": "Indentured labour" },
+        { "id": "c", "label": "Child labour" },
+        { "id": "d", "label": "Apprenticeship bonding" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "The city of Manchester became a global centre for which industry during the Industrial Revolution?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Steel production" },
+        { "id": "b", "label": "Shipbuilding" },
+        { "id": "c", "label": "Pottery manufacturing" },
+        { "id": "d", "label": "Cotton textile manufacturing" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q8",
+      "text": "The Luddites were a movement that protested the Industrial Revolution by destroying what?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Steam engines" },
+        { "id": "b", "label": "Textile machinery" },
+        { "id": "c", "label": "Rail tracks" },
+        { "id": "d", "label": "Factory chimneys" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

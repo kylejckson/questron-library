@@ -1,0 +1,138 @@
+{
+  "title": "Periodic Table of Elements",
+  "meta": {
+    "description": "Do you know your Hydrogen from your Helium? Test your knowledge of the periodic table!",
+    "subject": "Chemistry",
+    "category": "Classrooms",
+    "tags": ["chemistry", "elements", "periodic table", "science", "atoms"],
+    "difficulty": "hard",
+    "audience": "students",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What is the chemical symbol for Gold?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Go" },
+        { "id": "b", "label": "Gd" },
+        { "id": "c", "label": "Au" },
+        { "id": "d", "label": "Ag" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q2",
+      "text": "What is the atomic number of Carbon?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "4" },
+        { "id": "b", "label": "6" },
+        { "id": "c", "label": "8" },
+        { "id": "d", "label": "12" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q3",
+      "text": "What element has the symbol Fe?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Fluorine" },
+        { "id": "b", "label": "Francium" },
+        { "id": "c", "label": "Iron" },
+        { "id": "d", "label": "Fermium" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "Which element is the most abundant in the Earth's crust?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Silicon" },
+        { "id": "b", "label": "Nitrogen" },
+        { "id": "c", "label": "Iron" },
+        { "id": "d", "label": "Oxygen" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q5",
+      "text": "What is the chemical symbol for Sodium?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "So" },
+        { "id": "b", "label": "Sd" },
+        { "id": "c", "label": "Na" },
+        { "id": "d", "label": "Sa" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "At room temperature, which element is a liquid metal?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Aluminium" },
+        { "id": "b", "label": "Mercury" },
+        { "id": "c", "label": "Lead" },
+        { "id": "d", "label": "Tin" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q7",
+      "text": "What is the lightest element on the periodic table?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Helium" },
+        { "id": "b", "label": "Lithium" },
+        { "id": "c", "label": "Hydrogen" },
+        { "id": "d", "label": "Boron" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q8",
+      "text": "Which element has the symbol 'K'?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Krypton" },
+        { "id": "b", "label": "Potassium" },
+        { "id": "c", "label": "Cobalt" },
+        { "id": "d", "label": "Calcium" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q9",
+      "text": "How many elements are in the periodic table as of its current standard form?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "108" },
+        { "id": "b", "label": "112" },
+        { "id": "c", "label": "118" },
+        { "id": "d", "label": "120" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q10",
+      "text": "What element does 'Pb' represent?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Palladium" },
+        { "id": "b", "label": "Platinum" },
+        { "id": "c", "label": "Phosphorus" },
+        { "id": "d", "label": "Lead" }
+      ],
+      "correctOptionIds": ["d"]
+    }
+  ]
+}

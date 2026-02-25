@@ -1,0 +1,114 @@
+{
+  "title": "Summer Olympic History",
+  "meta": {
+    "description": "Faster, higher, stronger — how well do you know the history of the Summer Olympic Games?",
+    "subject": "Sport",
+    "category": "Sport",
+    "tags": ["olympics", "sport", "history", "athletics", "games"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "In which city were the first modern Olympic Games held in 1896?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Paris" },
+        { "id": "b", "label": "London" },
+        { "id": "c", "label": "Athens" },
+        { "id": "d", "label": "Stockholm" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q2",
+      "text": "How many gold medals did Michael Phelps win in his Olympic career?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "18" },
+        { "id": "b", "label": "20" },
+        { "id": "c", "label": "23" },
+        { "id": "d", "label": "25" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "Usain Bolt set the world record for 100m at which Olympic Games?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Athens 2004" },
+        { "id": "b", "label": "Beijing 2008" },
+        { "id": "c", "label": "London 2012" },
+        { "id": "d", "label": "Rio 2016" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q4",
+      "text": "Jesse Owens won four gold medals at the 1936 Berlin Olympics. Which dictator was watching?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Mussolini" },
+        { "id": "b", "label": "Stalin" },
+        { "id": "c", "label": "Hitler" },
+        { "id": "d", "label": "Franco" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q5",
+      "text": "The Olympic motto 'Citius, Altius, Fortius' translates to what in English?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Unity, Peace, Progress" },
+        { "id": "b", "label": "Stronger, Higher, Faster" },
+        { "id": "c", "label": "Faster, Higher, Stronger" },
+        { "id": "d", "label": "Swifter, Taller, More Powerful" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "How many rings are on the Olympic flag and what do they represent?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "5 rings, representing the 5 continents" },
+        { "id": "b", "label": "6 rings, representing the 6 original competing nations" },
+        { "id": "c", "label": "5 rings, representing peace and unity" },
+        { "id": "d", "label": "7 rings, one for each continent including Antarctica" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q7",
+      "text": "Which country has won the most Summer Olympic gold medals in history?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "United Kingdom" },
+        { "id": "b", "label": "Russia/Soviet Union" },
+        { "id": "c", "label": "China" },
+        { "id": "d", "label": "United States" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q8",
+      "text": "Who was the first athlete to run a sub-4-minute mile?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Steve Ovett" },
+        { "id": "b", "label": "Roger Bannister" },
+        { "id": "c", "label": "Sebastian Coe" },
+        { "id": "d", "label": "John Landy" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

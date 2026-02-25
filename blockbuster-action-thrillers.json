@@ -1,0 +1,114 @@
+{
+  "title": "Blockbuster Action Thrillers",
+  "meta": {
+    "description": "Explosions, car chases, and one-liners — how well do you know Hollywood's greatest action thrillers?",
+    "subject": "Movies",
+    "category": "Movies",
+    "tags": ["movies", "action", "thrillers", "blockbusters", "cinema"],
+    "difficulty": "easy",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "In Die Hard, what building is John McClane trapped in?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Empire State Building" },
+        { "id": "b", "label": "Nakatomi Plaza" },
+        { "id": "c", "label": "Towering Inferno" },
+        { "id": "d", "label": "Dulles Airport" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "What is the callsign of Tom Cruise's character in Top Gun?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Iceman" },
+        { "id": "b", "label": "Maverick" },
+        { "id": "c", "label": "Goose" },
+        { "id": "d", "label": "Viper" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q3",
+      "text": "In Mission: Impossible, Ethan Hunt is an agent for which organisation?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "The CIA" },
+        { "id": "b", "label": "The NSA" },
+        { "id": "c", "label": "The IMF (Impossible Missions Force)" },
+        { "id": "d", "label": "The FBI" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "Vin Diesel plays which character in the Fast and Furious franchise?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Brian O'Conner" },
+        { "id": "b", "label": "Dominic Toretto" },
+        { "id": "c", "label": "Roman Pearce" },
+        { "id": "d", "label": "Luke Hobbs" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "Which 1994 film directed by Luc Besson features a hitman who takes in a young girl named Mathilda?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Heat" },
+        { "id": "b", "label": "La Femme Nikita" },
+        { "id": "c", "label": "Léon: The Professional" },
+        { "id": "d", "label": "Taken" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "In The Dark Knight, what does the Joker say he is to Gotham?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "The future" },
+        { "id": "b", "label": "A better class of criminal" },
+        { "id": "c", "label": "A dog chasing cars" },
+        { "id": "d", "label": "An agent of chaos" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q7",
+      "text": "Which John Wick film introduced the concept of gold coins and the Continental Hotel?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "John Wick: Chapter 3" },
+        { "id": "b", "label": "John Wick: Chapter 2" },
+        { "id": "c", "label": "John Wick (original)" },
+        { "id": "d", "label": "John Wick: Chapter 4" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q8",
+      "text": "In the original Speed (1994), what speed must the bus stay above to prevent the bomb from exploding?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "50 mph" },
+        { "id": "b", "label": "55 mph" },
+        { "id": "c", "label": "60 mph" },
+        { "id": "d", "label": "70 mph" }
+      ],
+      "correctOptionIds": ["a"]
+    }
+  ]
+}

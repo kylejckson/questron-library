@@ -1,0 +1,138 @@
+{
+  "title": "Elementary Math Fundamentals",
+  "meta": {
+    "description": "Test your basic math skills with addition, subtraction, multiplication, and division!",
+    "subject": "Mathematics",
+    "category": "Classrooms",
+    "tags": ["math", "arithmetic", "elementary", "numbers"],
+    "difficulty": "easy",
+    "audience": "kids",
+    "language": "en",
+    "estimatedMinutes": 4,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What is 7 × 8?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "54" },
+        { "id": "b", "label": "56" },
+        { "id": "c", "label": "63" },
+        { "id": "d", "label": "48" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "What is 144 ÷ 12?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "10" },
+        { "id": "b", "label": "11" },
+        { "id": "c", "label": "12" },
+        { "id": "d", "label": "13" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "What is the value of π (pi) rounded to two decimal places?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "3.12" },
+        { "id": "b", "label": "3.14" },
+        { "id": "c", "label": "3.16" },
+        { "id": "d", "label": "3.18" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q4",
+      "text": "What is 15% of 200?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "25" },
+        { "id": "b", "label": "30" },
+        { "id": "c", "label": "35" },
+        { "id": "d", "label": "40" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "How many sides does a hexagon have?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "5" },
+        { "id": "b", "label": "6" },
+        { "id": "c", "label": "7" },
+        { "id": "d", "label": "8" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q6",
+      "text": "What is the square root of 81?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "7" },
+        { "id": "b", "label": "8" },
+        { "id": "c", "label": "9" },
+        { "id": "d", "label": "10" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "What is 1/4 expressed as a decimal?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "0.14" },
+        { "id": "b", "label": "0.20" },
+        { "id": "c", "label": "0.25" },
+        { "id": "d", "label": "0.40" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q8",
+      "text": "If a triangle has sides of 3, 4, and 5, what type of triangle is it?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Equilateral" },
+        { "id": "b", "label": "Isosceles" },
+        { "id": "c", "label": "Right-angled" },
+        { "id": "d", "label": "Obtuse" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q9",
+      "text": "What is the perimeter of a rectangle with a length of 8 and a width of 5?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "26" },
+        { "id": "b", "label": "40" },
+        { "id": "c", "label": "13" },
+        { "id": "d", "label": "16" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q10",
+      "text": "Which of these numbers is a prime number?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "9" },
+        { "id": "b", "label": "15" },
+        { "id": "c", "label": "17" },
+        { "id": "d", "label": "21" }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  ]
+}

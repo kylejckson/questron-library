@@ -1,0 +1,138 @@
+{
+  "title": "90s & 2000s Nostalgia",
+  "meta": {
+    "description": "Tamagotchis, MSN Messenger, and boy bands — relive the greatest decades of pop culture!",
+    "subject": "Pop Culture",
+    "category": "Parties",
+    "tags": ["90s", "2000s", "nostalgia", "retro", "pop culture"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What was the name of the digital virtual pet toy released by Bandai in Japan in 1996?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Furby" },
+        { "id": "b", "label": "Tamagotchi" },
+        { "id": "c", "label": "Digimon" },
+        { "id": "d", "label": "Giga Pet" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "Which 90s boy band sang 'Quit Playing Games (With My Heart)'?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "NSYNC" },
+        { "id": "b", "label": "97 Boyz" },
+        { "id": "c", "label": "New Kids on the Block" },
+        { "id": "d", "label": "Backstreet Boys" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q3",
+      "text": "What was the name of the Microsoft online messaging service popular in the early 2000s?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "AOL Instant Messenger" },
+        { "id": "b", "label": "MSN Messenger" },
+        { "id": "c", "label": "Yahoo Chat" },
+        { "id": "d", "label": "ICQ" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q4",
+      "text": "In the TV show Friends, what was the name of Ross's pet monkey?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Mo" },
+        { "id": "b", "label": "Marcel" },
+        { "id": "c", "label": "Max" },
+        { "id": "d", "label": "Minky" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "What was the best-selling video game console of the early 2000s?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Xbox" },
+        { "id": "b", "label": "GameCube" },
+        { "id": "c", "label": "PlayStation 2" },
+        { "id": "d", "label": "Dreamcast" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "Which iconic portable music player was released by Apple in 2001?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Zune" },
+        { "id": "b", "label": "Walkman" },
+        { "id": "c", "label": "iPod" },
+        { "id": "d", "label": "Discman" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "Which 1999 film popularised the concept of living in a computer simulation?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Dark City" },
+        { "id": "b", "label": "The Matrix" },
+        { "id": "c", "label": "eXistenZ" },
+        { "id": "d", "label": "The Thirteenth Floor" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q8",
+      "text": "Who sang the theme song 'Believe' from the 1998 Cher comeback?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Britney Spears" },
+        { "id": "b", "label": "Madonna" },
+        { "id": "c", "label": "Cher" },
+        { "id": "d", "label": "Whitney Houston" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q9",
+      "text": "Which social network, founded in 2003, was the dominant platform before Facebook?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Friendster" },
+        { "id": "b", "label": "Bebo" },
+        { "id": "c", "label": "MySpace" },
+        { "id": "d", "label": "Hi5" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q10",
+      "text": "What TV show followed four women navigating love and life in New York City from 1998 to 2004?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Desperate Housewives" },
+        { "id": "b", "label": "Sex and the City" },
+        { "id": "c", "label": "Ally McBeal" },
+        { "id": "d", "label": "Melrose Place" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

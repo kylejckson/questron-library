@@ -1,0 +1,114 @@
+{
+  "title": "2000s Sci-Fi & Psychological Dramas",
+  "meta": {
+    "description": "From mysterious islands to mind-bending realities — how well do you know the defining sci-fi and psychological dramas of the 2000s?",
+    "subject": "Television",
+    "category": "TV",
+    "tags": ["TV", "2000s", "sci-fi", "drama", "psychological"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "In the TV show Lost, what was the name of the mysterious organisation whose work was discovered on the island?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "The Hanso Corporation" },
+        { "id": "b", "label": "The DHARMA Initiative" },
+        { "id": "c", "label": "The Others Foundation" },
+        { "id": "d", "label": "The Widmore Group" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "Which show featured a reimagined version of the original 1970s series following humanity's survival against robotic Cylons?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Firefly" },
+        { "id": "b", "label": "Stargate SG-1" },
+        { "id": "c", "label": "Battlestar Galactica" },
+        { "id": "d", "label": "Farscape" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "In Heroes, what was the show's recurring catchphrase and tagline?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Save the cheerleader, save the world" },
+        { "id": "b", "label": "With great power comes great responsibility" },
+        { "id": "c", "label": "The future is now" },
+        { "id": "d", "label": "Evolution is the answer" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q4",
+      "text": "In Fringe, what is the name of the parallel universe that the team investigates?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Mirror Earth" },
+        { "id": "b", "label": "The Other Side" },
+        { "id": "c", "label": "Dimension B" },
+        { "id": "d", "label": "The Flip World" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "Which network aired the original run of Lost from 2004 to 2010?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "NBC" },
+        { "id": "b", "label": "CBS" },
+        { "id": "c", "label": "ABC" },
+        { "id": "d", "label": "Fox" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "In Alias, Sydney Bristow is a double agent working for which agencies?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "The CIA and MI6" },
+        { "id": "b", "label": "SD-6 and the CIA" },
+        { "id": "c", "label": "The FBI and NSA" },
+        { "id": "d", "label": "Interpol and the CIA" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q7",
+      "text": "In the TV show Dexter, what is Dexter Morgan's day job?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Police detective" },
+        { "id": "b", "label": "Forensic blood spatter analyst" },
+        { "id": "c", "label": "Crime scene photographer" },
+        { "id": "d", "label": "Criminal profiler" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q8",
+      "text": "Joss Whedon's 2009 series Dollhouse featured which actress playing a 'doll' — an operative programmed with different personalities for each mission?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Summer Glau" },
+        { "id": "b", "label": "Eliza Dushku" },
+        { "id": "c", "label": "Charisma Carpenter" },
+        { "id": "d", "label": "Morena Baccarin" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

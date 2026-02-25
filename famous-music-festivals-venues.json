@@ -1,0 +1,114 @@
+{
+  "title": "Famous Music Festivals & Venues",
+  "meta": {
+    "description": "From Woodstock to Wembley — how well do you know the stages and festivals that made music history?",
+    "subject": "Music",
+    "category": "Music",
+    "tags": ["music festivals", "venues", "concerts", "live music", "history"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "In which year did the iconic Woodstock festival take place?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "1967" },
+        { "id": "b", "label": "1969" },
+        { "id": "c", "label": "1971" },
+        { "id": "d", "label": "1973" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "Coachella Valley Music and Arts Festival is held annually in which US state?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Nevada" },
+        { "id": "b", "label": "Arizona" },
+        { "id": "c", "label": "California" },
+        { "id": "d", "label": "Texas" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "Glastonbury Festival is held on a farm in which county of England?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Dorset" },
+        { "id": "b", "label": "Wiltshire" },
+        { "id": "c", "label": "Somerset" },
+        { "id": "d", "label": "Devon" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "SXSW (South by Southwest) is an annual music and arts festival held in which US city?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Nashville" },
+        { "id": "b", "label": "Austin" },
+        { "id": "c", "label": "New Orleans" },
+        { "id": "d", "label": "Dallas" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "Madison Square Garden is located in which US city?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Chicago" },
+        { "id": "b", "label": "Los Angeles" },
+        { "id": "c", "label": "Boston" },
+        { "id": "d", "label": "New York City" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q6",
+      "text": "The O2 Arena, one of the most visited music venues in the world, is located in which city?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Dublin" },
+        { "id": "b", "label": "London" },
+        { "id": "c", "label": "Manchester" },
+        { "id": "d", "label": "Birmingham" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q7",
+      "text": "Lollapalooza, one of America's biggest music festivals, is held annually in which city?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "New York" },
+        { "id": "b", "label": "Los Angeles" },
+        { "id": "c", "label": "Chicago" },
+        { "id": "d", "label": "San Francisco" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q8",
+      "text": "The Cavern Club in Liverpool is historically famous as the early venue for which band?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "The Rolling Stones" },
+        { "id": "b", "label": "The Kinks" },
+        { "id": "c", "label": "The Beatles" },
+        { "id": "d", "label": "The Who" }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  ]
+}

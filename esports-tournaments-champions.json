@@ -1,0 +1,114 @@
+{
+  "title": "E-Sports Tournaments & Champions",
+  "meta": {
+    "description": "From League of Legends Worlds to The International — how much do you know about competitive gaming's biggest stages?",
+    "subject": "Gaming",
+    "category": "Gaming",
+    "tags": ["esports", "competitive gaming", "tournaments", "pro gaming", "streaming"],
+    "difficulty": "hard",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "The International is the premier annual tournament for which esport?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "League of Legends" },
+        { "id": "b", "label": "Counter-Strike" },
+        { "id": "c", "label": "Dota 2" },
+        { "id": "d", "label": "StarCraft II" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q2",
+      "text": "South Korea is particularly dominant in which real-time strategy esport, often called the country's 'national sport'?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Age of Empires" },
+        { "id": "b", "label": "StarCraft" },
+        { "id": "c", "label": "Warcraft III" },
+        { "id": "d", "label": "Command & Conquer" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q3",
+      "text": "Which team won the first-ever League of Legends World Championship in 2011?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Fnatic" },
+        { "id": "b", "label": "SK Telecom T1" },
+        { "id": "c", "label": "Team SoloMid" },
+        { "id": "d", "label": "Counter Logic Gaming" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q4",
+      "text": "The Fortnite World Cup 2019 featured a solo winner who was only 16 years old. What is his name?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Tfue" },
+        { "id": "b", "label": "Ninja" },
+        { "id": "c", "label": "Bugha" },
+        { "id": "d", "label": "Mongraal" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q5",
+      "text": "Counter-Strike: Global Offensive (CS:GO) uses a best-of format across major tournaments. What are CS:GO's main weapon categories in competitive play?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Rifles, SMGs, Pistols, Snipers, Heavy" },
+        { "id": "b", "label": "Assault rifles, Shotguns, Grenades" },
+        { "id": "c", "label": "Rifles, Machine Guns, Pistols" },
+        { "id": "d", "label": "Only rifles and grenades" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q6",
+      "text": "The EVO Championship Series is the world's largest and longest-running fighting game tournament. Which of these games is regularly featured at EVO?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Fortnite" },
+        { "id": "b", "label": "Street Fighter" },
+        { "id": "c", "label": "Halo" },
+        { "id": "d", "label": "Valorant" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q7",
+      "text": "Which Overwatch League team won the inaugural 2018 Overwatch League Grand Finals?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "San Francisco Shock" },
+        { "id": "b", "label": "New York Excelsior" },
+        { "id": "c", "label": "London Spitfire" },
+        { "id": "d", "label": "Philadelphia Fusion" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q8",
+      "text": "In Dota 2's The International, prize pools are largely funded by which mechanism?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Valve corporate funding alone" },
+        { "id": "b", "label": "Ticket sales at the venue" },
+        { "id": "c", "label": "Fan-purchased Battle Pass contributions" },
+        { "id": "d", "label": "Sponsor donations" }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "title": "Teen Dramas of the Early 2000s",
+  "meta": {
+    "description": "The OC, One Tree Hill, Gossip Girl — how well do you remember the teen dramas that had everyone hooked?",
+    "subject": "Television",
+    "category": "TV",
+    "tags": ["TV", "teen drama", "2000s", "romance", "coming of age"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "In The OC, what is the name of the troubled kid from Chino who is brought to live in Newport Beach?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Seth Cohen" },
+        { "id": "b", "label": "Ryan Atwood" },
+        { "id": "c", "label": "Luke Ward" },
+        { "id": "d", "label": "Oliver Trask" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "One Tree Hill is set in what fictional North Carolina town?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Wilmington" },
+        { "id": "b", "label": "Rivercourt" },
+        { "id": "c", "label": "Tree Hill" },
+        { "id": "d", "label": "Cape Fear" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "In Gossip Girl, who is the anonymous blogger known as 'Gossip Girl'?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Blair Waldorf" },
+        { "id": "b", "label": "Serena van der Woodsen" },
+        { "id": "c", "label": "Jenny Humphrey" },
+        { "id": "d", "label": "Dan Humphrey" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q4",
+      "text": "Veronica Mars, a mystery teen drama, aired on which network from 2004 to 2007?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "WB / The CW" },
+        { "id": "b", "label": "MTV" },
+        { "id": "c", "label": "Fox" },
+        { "id": "d", "label": "ABC Family" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q5",
+      "text": "In Smallville, which Superman character does Tom Welling play?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Lex Luthor" },
+        { "id": "b", "label": "Clark Kent" },
+        { "id": "c", "label": "Jimmy Olsen" },
+        { "id": "d", "label": "Pete Ross" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q6",
+      "text": "What is the name of the fictional prep school in Gossip Girl?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Constance and St. Jude's" },
+        { "id": "b", "label": "Dalton Academy" },
+        { "id": "c", "label": "Chilton School" },
+        { "id": "d", "label": "Waverly Academy" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q7",
+      "text": "Gilmore Girls takes place in which fictional Connecticut town?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Stony Brook" },
+        { "id": "b", "label": "Hartwell" },
+        { "id": "c", "label": "Stars Hollow" },
+        { "id": "d", "label": "Maple Falls" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q8",
+      "text": "Which teen drama followed twin brothers Nathan and Lucas Scott competing in basketball?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "The OC" },
+        { "id": "b", "label": "Dawson's Creek" },
+        { "id": "c", "label": "Summerland" },
+        { "id": "d", "label": "One Tree Hill" }
+      ],
+      "correctOptionIds": ["d"]
+    }
+  ]
+}

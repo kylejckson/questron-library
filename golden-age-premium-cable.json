@@ -1,0 +1,114 @@
+{
+  "title": "The Golden Age of Premium Cable",
+  "meta": {
+    "description": "The Sopranos, The Wire, Deadwood — test your knowledge of the prestige dramas that changed television forever.",
+    "subject": "Television",
+    "category": "TV",
+    "tags": ["TV", "HBO", "premium cable", "drama", "2000s"],
+    "difficulty": "hard",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What is the name of Tony Soprano's psychiatrist in The Sopranos?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Dr. Rachel Bloom" },
+        { "id": "b", "label": "Dr. Jennifer Melfi" },
+        { "id": "c", "label": "Dr. Susan Crane" },
+        { "id": "d", "label": "Dr. Karen Ellis" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "The Wire is set predominantly in which US city?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Chicago" },
+        { "id": "b", "label": "Philadelphia" },
+        { "id": "c", "label": "Baltimore" },
+        { "id": "d", "label": "Detroit" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "In Breaking Bad, what is the street name for the blue meth Walter White produces?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Crystal Sky" },
+        { "id": "b", "label": "Blue Magic" },
+        { "id": "c", "label": "Azure" },
+        { "id": "d", "label": "Ice Blue" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q4",
+      "text": "Deadwood was set during which historical period in the American frontier?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "The Civil War era (1860s)" },
+        { "id": "b", "label": "The Black Hills Gold Rush (1870s–1880s)" },
+        { "id": "c", "label": "The Wild West (1850s)" },
+        { "id": "d", "label": "Post-Reconstruction (1890s)" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "In The Sopranos, what New Jersey town does Tony Soprano actually live in?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Newark" },
+        { "id": "b", "label": "Caldwell" },
+        { "id": "c", "label": "North Caldwell" },
+        { "id": "d", "label": "Livingston" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "Mad Men is set primarily in which decade?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "1950s" },
+        { "id": "b", "label": "1960s" },
+        { "id": "c", "label": "1970s" },
+        { "id": "d", "label": "1940s" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q7",
+      "text": "In Six Feet Under, what is the name of the family funeral home at the centre of the show?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Fisher & Sons Funeral Home" },
+        { "id": "b", "label": "Green Pastures Funeral Home" },
+        { "id": "c", "label": "Nate & David's Mortuary" },
+        { "id": "d", "label": "Sunset Memorial" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q8",
+      "text": "Breaking Bad's Walter White used what profession as his cover for cooking meth?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Plumber" },
+        { "id": "b", "label": "Car wash owner" },
+        { "id": "c", "label": "High school chemistry teacher" },
+        { "id": "d", "label": "University professor" }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  ]
+}

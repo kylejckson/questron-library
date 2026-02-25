@@ -1,0 +1,138 @@
+{
+  "title": "Food and Drink Around the World",
+  "meta": {
+    "description": "Sushi, tacos, croissants — how well do you know the world's cuisines and drinks?",
+    "subject": "Food & Culture",
+    "category": "Parties",
+    "tags": ["food", "drink", "cuisine", "culture", "international"],
+    "difficulty": "easy",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 4,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Which country is sushi originally from?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "China" },
+        { "id": "b", "label": "South Korea" },
+        { "id": "c", "label": "Japan" },
+        { "id": "d", "label": "Thailand" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q2",
+      "text": "What is the main ingredient in traditional guacamole?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Tomato" },
+        { "id": "b", "label": "Avocado" },
+        { "id": "c", "label": "Lime" },
+        { "id": "d", "label": "Chilli" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q3",
+      "text": "Croissants are strongly associated with which country's cuisine?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Belgium" },
+        { "id": "b", "label": "Austria" },
+        { "id": "c", "label": "France" },
+        { "id": "d", "label": "Switzerland" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "What is the national dish of Spain?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Gazpacho" },
+        { "id": "b", "label": "Tortilla Española" },
+        { "id": "c", "label": "Churros" },
+        { "id": "d", "label": "Paella" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q5",
+      "text": "Which fruit is used to make wine?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Apple" },
+        { "id": "b", "label": "Pear" },
+        { "id": "c", "label": "Grape" },
+        { "id": "d", "label": "Plum" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "Kimchi is a traditional fermented dish from which country?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "China" },
+        { "id": "b", "label": "Japan" },
+        { "id": "c", "label": "South Korea" },
+        { "id": "d", "label": "Vietnam" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "What type of pasta is Carbonara traditionally made with?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Penne" },
+        { "id": "b", "label": "Spaghetti" },
+        { "id": "c", "label": "Fusilli" },
+        { "id": "d", "label": "Lasagne" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q8",
+      "text": "Champagne can officially only be produced in which region?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Bordeaux, France" },
+        { "id": "b", "label": "Burgundy, France" },
+        { "id": "c", "label": "Champagne, France" },
+        { "id": "d", "label": "Loire Valley, France" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q9",
+      "text": "What is the most consumed beverage in the world after water?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Coffee" },
+        { "id": "b", "label": "Coca-Cola" },
+        { "id": "c", "label": "Milk" },
+        { "id": "d", "label": "Tea" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q10",
+      "text": "Which spice is the most expensive in the world by weight?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Vanilla" },
+        { "id": "b", "label": "Saffron" },
+        { "id": "c", "label": "Cardamom" },
+        { "id": "d", "label": "Turmeric" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

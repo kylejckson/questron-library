@@ -1,0 +1,126 @@
+{
+  "title": "Famous Historical Figures",
+  "meta": {
+    "description": "From conquerors to scientists and revolutionaries — how well do you know the people who shaped history?",
+    "subject": "History",
+    "category": "History",
+    "tags": ["history", "famous people", "biography", "leaders", "icons"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Which famous explorer first circumnavigated the globe, completing the voyage in 1522 (though he died before the journey ended)?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Christopher Columbus" },
+        { "id": "b", "label": "Vasco da Gama" },
+        { "id": "c", "label": "Ferdinand Magellan" },
+        { "id": "d", "label": "Francis Drake" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q2",
+      "text": "Which French military leader was exiled to the island of Saint Helena after his defeat at Waterloo?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Louis XIV" },
+        { "id": "b", "label": "Napoleon Bonaparte" },
+        { "id": "c", "label": "Charles de Gaulle" },
+        { "id": "d", "label": "Cardinal Richelieu" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q3",
+      "text": "Who was the first woman to win a Nobel Prize, receiving it in Physics in 1903?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Rosalind Franklin" },
+        { "id": "b", "label": "Ada Lovelace" },
+        { "id": "c", "label": "Florence Nightingale" },
+        { "id": "d", "label": "Marie Curie" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q4",
+      "text": "Mahatma Gandhi led a non-violent independence movement against which colonial power?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "France" },
+        { "id": "b", "label": "Portugal" },
+        { "id": "c", "label": "Britain" },
+        { "id": "d", "label": "The Netherlands" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q5",
+      "text": "Abraham Lincoln issued the Emancipation Proclamation in 1863. What did it declare?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "The end of the American Civil War" },
+        { "id": "b", "label": "Freedom for enslaved people in Confederate states" },
+        { "id": "c", "label": "Universal suffrage for all citizens" },
+        { "id": "d", "label": "The annexation of Southern territories" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q6",
+      "text": "Alexander the Great was a king of which ancient kingdom?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Athens" },
+        { "id": "b", "label": "Sparta" },
+        { "id": "c", "label": "Macedonia" },
+        { "id": "d", "label": "Persia" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "Nelson Mandela spent 27 years in prison before becoming President of which country?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Zimbabwe" },
+        { "id": "b", "label": "Kenya" },
+        { "id": "c", "label": "Mozambique" },
+        { "id": "d", "label": "South Africa" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q8",
+      "text": "Which Renaissance artist painted the Sistine Chapel ceiling?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Leonardo da Vinci" },
+        { "id": "b", "label": "Raphael" },
+        { "id": "c", "label": "Michelangelo" },
+        { "id": "d", "label": "Donatello" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q9",
+      "text": "Cleopatra VII was the last active ruler of which ancient kingdom?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Carthage" },
+        { "id": "b", "label": "Ptolemaic Egypt" },
+        { "id": "c", "label": "Nubia" },
+        { "id": "d", "label": "Mesopotamia" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

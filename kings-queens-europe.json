@@ -1,0 +1,126 @@
+{
+  "title": "Kings and Queens of Europe",
+  "meta": {
+    "description": "From medieval monarchs to modern royals — test your knowledge of Europe's most famous rulers across the centuries.",
+    "subject": "History",
+    "category": "History",
+    "tags": ["royalty", "kings", "queens", "Europe", "monarchy", "history"],
+    "difficulty": "hard",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Which English king signed the Magna Carta in 1215 under pressure from rebellious barons?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "King Richard I" },
+        { "id": "b", "label": "King Henry II" },
+        { "id": "c", "label": "King John" },
+        { "id": "d", "label": "King Edward I" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q2",
+      "text": "Queen Elizabeth I of England was the daughter of which king and his second wife, Anne Boleyn?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Henry VII" },
+        { "id": "b", "label": "Henry VIII" },
+        { "id": "c", "label": "Edward VI" },
+        { "id": "d", "label": "James I" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q3",
+      "text": "Which French king was known as the 'Sun King' and built the Palace of Versailles?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Louis XIII" },
+        { "id": "b", "label": "Louis XV" },
+        { "id": "c", "label": "Louis XVI" },
+        { "id": "d", "label": "Louis XIV" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q4",
+      "text": "Who was the longest-reigning British monarch until Queen Elizabeth II surpassed the record?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Queen Victoria" },
+        { "id": "b", "label": "King George III" },
+        { "id": "c", "label": "King Henry VIII" },
+        { "id": "d", "label": "King Edward VII" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q5",
+      "text": "Catherine the Great was Empress of which country from 1762 to 1796?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Prussia" },
+        { "id": "b", "label": "Austria" },
+        { "id": "c", "label": "Russia" },
+        { "id": "d", "label": "Sweden" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "Which Spanish monarchs sponsored Christopher Columbus's 1492 voyage to the Americas?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Philip II and Mary I" },
+        { "id": "b", "label": "Ferdinand II and Isabella I" },
+        { "id": "c", "label": "Charles I and Joanna of Castile" },
+        { "id": "d", "label": "Alfonso X and Eleanor of England" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q7",
+      "text": "Mary, Queen of Scots was eventually executed on the orders of which queen?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Queen Mary I of England" },
+        { "id": "b", "label": "Queen Anne" },
+        { "id": "c", "label": "Queen Elizabeth I" },
+        { "id": "d", "label": "Queen Victoria" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q8",
+      "text": "The Holy Roman Emperor Charles V ruled over a vast empire in the 16th century. His empire did NOT include which of the following?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Spain" },
+        { "id": "b", "label": "France" },
+        { "id": "c", "label": "Austria" },
+        { "id": "d", "label": "The Spanish Americas" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q9",
+      "text": "Which Scandinavian king, known as 'Harald Bluetooth', united the Danish tribes and gave his name to the modern wireless technology?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Harald Fairhair" },
+        { "id": "b", "label": "Harald Hardrada" },
+        { "id": "c", "label": "Harald Bluetooth" },
+        { "id": "d", "label": "Cnut the Great" }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  ]
+}

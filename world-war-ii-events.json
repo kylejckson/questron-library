@@ -1,0 +1,114 @@
+{
+  "title": "World War II Events",
+  "meta": {
+    "description": "D-Day, the Holocaust, and the atomic bomb — test your knowledge of the most defining conflict in modern history.",
+    "subject": "History",
+    "category": "History",
+    "tags": ["WWII", "World War 2", "history", "war", "events"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "On what date did D-Day — the Allied invasion of Normandy — take place?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "June 4, 1944" },
+        { "id": "b", "label": "June 6, 1944" },
+        { "id": "c", "label": "May 8, 1945" },
+        { "id": "d", "label": "August 15, 1945" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "Which country did Germany invade to trigger the formal start of World War II in Europe?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "France" },
+        { "id": "b", "label": "Belgium" },
+        { "id": "c", "label": "Poland" },
+        { "id": "d", "label": "Czechoslovakia" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "The atomic bombs dropped on Japan in 1945 fell on which two cities?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Tokyo and Osaka" },
+        { "id": "b", "label": "Hiroshima and Nagasaki" },
+        { "id": "c", "label": "Kyoto and Hiroshima" },
+        { "id": "d", "label": "Nagasaki and Yokohama" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q4",
+      "text": "What was the name of the German air force during World War II?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Wehrmacht" },
+        { "id": "b", "label": "Luftwaffe" },
+        { "id": "c", "label": "Kriegsmarine" },
+        { "id": "d", "label": "Waffen-SS" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "Who was Prime Minister of Britain during most of World War II?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Neville Chamberlain" },
+        { "id": "b", "label": "Clement Attlee" },
+        { "id": "c", "label": "Anthony Eden" },
+        { "id": "d", "label": "Winston Churchill" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q6",
+      "text": "The Battle of Stalingrad is considered a major turning point in WWII. Which two countries were fighting?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Britain and Germany" },
+        { "id": "b", "label": "Germany and the Soviet Union" },
+        { "id": "c", "label": "The US and Japan" },
+        { "id": "d", "label": "France and Germany" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q7",
+      "text": "What code name was given to the German invasion of the Soviet Union in June 1941?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Operation Sea Lion" },
+        { "id": "b", "label": "Operation Barbarossa" },
+        { "id": "c", "label": "Operation Overlord" },
+        { "id": "d", "label": "Operation Market Garden" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q8",
+      "text": "In which year did Japan formally surrender, officially ending World War II?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "1944" },
+        { "id": "b", "label": "1945" },
+        { "id": "c", "label": "1946" },
+        { "id": "d", "label": "1943" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

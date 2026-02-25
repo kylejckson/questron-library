@@ -1,0 +1,114 @@
+{
+  "title": "Extreme Sports Trivia",
+  "meta": {
+    "description": "Skateboards, snowboards, and BASE jumps — how well do you know the world of extreme sports?",
+    "subject": "Sport",
+    "category": "Sport",
+    "tags": ["extreme sports", "skateboarding", "snowboarding", "adventure", "sport"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 4,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What does BASE stand for in BASE jumping?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Building, Antenna, Span, Earth" },
+        { "id": "b", "label": "Bridge, Arch, Sea, Elevation" },
+        { "id": "c", "label": "Building, Arch, Structure, Edge" },
+        { "id": "d", "label": "Bluff, Altitude, Sky, Elevation" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q2",
+      "text": "Skateboarding was officially included as an Olympic sport at which Games?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Rio 2016" },
+        { "id": "b", "label": "Tokyo 2020" },
+        { "id": "c", "label": "London 2012" },
+        { "id": "d", "label": "Paris 2024" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q3",
+      "text": "What is the name of the aerial trick in snowboarding where the rider grabs the back toe edge of the board?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "A McTwist" },
+        { "id": "b", "label": "A Cab" },
+        { "id": "c", "label": "A Melon" },
+        { "id": "d", "label": "An Indy" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "The X Games was first held in which year?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "1993" },
+        { "id": "b", "label": "1995" },
+        { "id": "c", "label": "1997" },
+        { "id": "d", "label": "1999" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "In surfing, what is a 'barrel'?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "A type of surfboard shape" },
+        { "id": "b", "label": "The hollow tube formed by a breaking wave" },
+        { "id": "c", "label": "A scoring term for a perfect wave ridden" },
+        { "id": "d", "label": "A fall or wipeout from the surfboard" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q6",
+      "text": "Which extreme sport involves harnessing and jumping from height via an elastic cord?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Paragliding" },
+        { "id": "b", "label": "Bungee jumping" },
+        { "id": "c", "label": "BASE jumping" },
+        { "id": "d", "label": "Skydiving" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q7",
+      "text": "Tony Hawk became world famous for landing which trick at the 1999 X Games Best Trick competition?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "900 (two and a half rotations)" },
+        { "id": "b", "label": "720 (two rotations)" },
+        { "id": "c", "label": "1080 (three rotations)" },
+        { "id": "d", "label": "Backflip handstand" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q8",
+      "text": "Kitesurfing (kiteboarding) requires a combination of which two sports?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Windsurfing and skydiving" },
+        { "id": "b", "label": "Surfing and paragliding" },
+        { "id": "c", "label": "Wakeboarding and kite flying" },
+        { "id": "d", "label": "Snowboarding and sailing" }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  ]
+}

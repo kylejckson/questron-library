@@ -1,0 +1,114 @@
+{
+  "title": "Legendary Music Producers & Songwriters",
+  "meta": {
+    "description": "Behind every great hit is a great producer or songwriter. How well do you know the legends behind the music?",
+    "subject": "Music",
+    "category": "Music",
+    "tags": ["music", "producers", "songwriters", "industry", "behind the scenes"],
+    "difficulty": "hard",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Which producer founded Motown Records in 1959?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Quincy Jones" },
+        { "id": "b", "label": "Berry Gordy" },
+        { "id": "c", "label": "Phil Spector" },
+        { "id": "d", "label": "Ahmet Ertegun" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "Quincy Jones is famous for producing which Michael Jackson album, often called the best-selling album of all time?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Off the Wall" },
+        { "id": "b", "label": "Bad" },
+        { "id": "c", "label": "Thriller" },
+        { "id": "d", "label": "Dangerous" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "Dr. Dre produced the debut solo album of which rapper, Reasonable Doubt, in 1996?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Snoop Dogg" },
+        { "id": "b", "label": "Eminem" },
+        { "id": "c", "label": "Jay-Z" },
+        { "id": "d", "label": "Ice Cube" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "Max Martin is a Swedish hitmaker who has written or co-written over how many number one singles in the US?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Over 10" },
+        { "id": "b", "label": "Over 20" },
+        { "id": "c", "label": "Over 25" },
+        { "id": "d", "label": "Over 50" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q5",
+      "text": "Which legendary producer and artist created the 'Wall of Sound' production technique in the 1960s?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Rick Rubin" },
+        { "id": "b", "label": "George Martin" },
+        { "id": "c", "label": "Phil Spector" },
+        { "id": "d", "label": "Brian Wilson" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "George Martin is often referred to as the 'Fifth Beatle' because of his work as which band's producer?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "The Rolling Stones" },
+        { "id": "b", "label": "The Kinks" },
+        { "id": "c", "label": "The Beatles" },
+        { "id": "d", "label": "The Who" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "Rick Rubin co-founded Def Jam Recordings and is known for producing albums for which rock band's comeback record, 'Californication'?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Pearl Jam" },
+        { "id": "b", "label": "Rage Against the Machine" },
+        { "id": "c", "label": "Red Hot Chili Peppers" },
+        { "id": "d", "label": "Soundgarden" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q8",
+      "text": "Who is known as 'Ye', having produced and released critically acclaimed albums like My Beautiful Dark Twisted Fantasy?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Jay-Z" },
+        { "id": "b", "label": "Kanye West" },
+        { "id": "c", "label": "Pharrell Williams" },
+        { "id": "d", "label": "Tyler the Creator" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

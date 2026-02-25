@@ -1,0 +1,114 @@
+{
+  "title": "Iconic Sitcoms of the 2000s",
+  "meta": {
+    "description": "That's what she said! From Dunder Mifflin to MacLaren's Pub, relive the best sitcoms of the 2000s.",
+    "subject": "Television",
+    "category": "TV",
+    "tags": ["TV", "sitcoms", "comedy", "2000s", "funny"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 4,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "In The Office (US), what position does Michael Scott hold at Dunder Mifflin?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Assistant Regional Manager" },
+        { "id": "b", "label": "Regional Manager" },
+        { "id": "c", "label": "Branch Director" },
+        { "id": "d", "label": "Operations Manager" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "In How I Met Your Mother, where do the main characters frequently hang out?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Central Perk" },
+        { "id": "b", "label": "The Cheers Bar" },
+        { "id": "c", "label": "MacLaren's Pub" },
+        { "id": "d", "label": "Paddy's Pub" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "In Arrested Development, what is the name of the Bluth family's frozen banana stand?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Banana Dreams" },
+        { "id": "b", "label": "Original Frozen Banana Stand" },
+        { "id": "c", "label": "Bluth's Original Frozen Banana" },
+        { "id": "d", "label": "Banana Bungalow" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "What is Dwight Schrute's title in The Office?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Assistant to the Regional Manager" },
+        { "id": "b", "label": "Assistant Regional Manager" },
+        { "id": "c", "label": "Deputy Manager" },
+        { "id": "d", "label": "Senior Sales Associate" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q5",
+      "text": "Which satirical show about a sketch comedy programme starred Tina Fey and Alec Baldwin?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Studio 60" },
+        { "id": "b", "label": "30 Rock" },
+        { "id": "c", "label": "The Comeback" },
+        { "id": "d", "label": "Unbreakable Kimmy Schmidt" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q6",
+      "text": "In Two and a Half Men, who plays bachelor Charlie Harper?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Ashton Kutcher" },
+        { "id": "b", "label": "Jon Cryer" },
+        { "id": "c", "label": "Charlie Sheen" },
+        { "id": "d", "label": "John Stamos" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "In Scrubs, what is the nickname given to Dr. Cox's intern J.D.?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Sunshine" },
+        { "id": "b", "label": "Newbie" },
+        { "id": "c", "label": "Buddy" },
+        { "id": "d", "label": "Junior" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q8",
+      "text": "In It's Always Sunny in Philadelphia, what is the name of the gang's bar?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "MacLaren's" },
+        { "id": "b", "label": "Paddy's Pub" },
+        { "id": "c", "label": "Shamrock's Bar" },
+        { "id": "d", "label": "Sunny's Tavern" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

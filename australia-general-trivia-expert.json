@@ -1,0 +1,138 @@
+{
+  "title": "Australia General Trivia: Expert",
+  "meta": {
+    "description": "For the true Australia enthusiasts — obscure facts, colonial history, Aboriginal culture, and deep-dive knowledge of the continent.",
+    "subject": "Geography & Culture",
+    "category": "Parties",
+    "tags": ["Australia", "expert", "history", "culture", "Aboriginal"],
+    "difficulty": "hard",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 7,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 35,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What is the name of the songlines or Dreaming tracks central to Aboriginal Australian spirituality and navigation?",
+      "timeLimitSeconds": 35,
+      "options": [
+        { "id": "a", "label": "Walkabout trails" },
+        { "id": "b", "label": "The Dreaming" },
+        { "id": "c", "label": "Tjurunga pathways" },
+        { "id": "d", "label": "Songlines or Dreaming" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q2",
+      "text": "Which Aboriginal leader signed the Balfour Declaration-equivalent, cementing Aboriginal resistance during European settlement?",
+      "timeLimitSeconds": 35,
+      "options": [
+        { "id": "a", "label": "Eddie Mabo" },
+        { "id": "b", "label": "Pemulwuy" },
+        { "id": "c", "label": "Windradyne" },
+        { "id": "d", "label": "Cathy Freeman" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q3",
+      "text": "What was the name of the historical court case that acknowledged Aboriginal land rights in Australia in 1992?",
+      "timeLimitSeconds": 35,
+      "options": [
+        { "id": "a", "label": "Mabo v Queensland" },
+        { "id": "b", "label": "Wik Peoples v The State of Queensland" },
+        { "id": "c", "label": "Worimi Aboriginal Community v Australia" },
+        { "id": "d", "label": "Commonwealth v Tasmania" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q4",
+      "text": "What unique monotreme mammal, found only in Australia, produces venom and lays eggs?",
+      "timeLimitSeconds": 30,
+      "options": [
+        { "id": "a", "label": "Echidna" },
+        { "id": "b", "label": "Platypus" },
+        { "id": "c", "label": "Tasmanian devil" },
+        { "id": "d", "label": "Kiwi bird" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "Which colony was originally established as a penal settlement in 1788 and became the foundation of Sydney?",
+      "timeLimitSeconds": 30,
+      "options": [
+        { "id": "a", "label": "Port Jackson" },
+        { "id": "b", "label": "Port Arthur" },
+        { "id": "c", "label": "Botany Bay" },
+        { "id": "d", "label": "Paramatta" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q6",
+      "text": "What is the only venomous mammal native to Australia?",
+      "timeLimitSeconds": 30,
+      "options": [
+        { "id": "a", "label": "Platypus (male)" },
+        { "id": "b", "label": "Tasmanian devil" },
+        { "id": "c", "label": "Inland taipan" },
+        { "id": "d", "label": "Box jellyfish" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q7",
+      "text": "In which year did Australia federation occur, uniting the six colonies?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "1890" },
+        { "id": "b", "label": "1895" },
+        { "id": "c", "label": "1901" },
+        { "id": "d", "label": "1910" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q8",
+      "text": "What is the traditional name for the Indigenous Australian knowledge system that explains creation, land, and spiritual connection?",
+      "timeLimitSeconds": 35,
+      "options": [
+        { "id": "a", "label": "Aboriginal Law" },
+        { "id": "b", "label": "Dreamtime" },
+        { "id": "c", "label": "Totemic system" },
+        { "id": "d", "label": "Sacred geography" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q9",
+      "text": "Kakadu National Park, a UNESCO World Heritage Site, is located in which Australian state?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Queensland" },
+        { "id": "b", "label": "Northern Territory" },
+        { "id": "c", "label": "Western Australia" },
+        { "id": "d", "label": "Victoria" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q10",
+      "text": "What high court ruling in 1967 granted Aboriginal and Torres Strait Islander peoples voting rights and citizenship?",
+      "timeLimitSeconds": 35,
+      "options": [
+        { "id": "a", "label": "The 1962 Electoral Act Amendment" },
+        { "id": "b", "label": "The 1967 Referendum" },
+        { "id": "c", "label": "The 1972 constitutional amendment" },
+        { "id": "d", "label": "The Racial Discrimination Act 1975" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

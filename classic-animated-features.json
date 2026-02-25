@@ -1,0 +1,114 @@
+{
+  "title": "Classic Animated Features",
+  "meta": {
+    "description": "Hakuna Matata! Test your knowledge of the greatest animated films ever made.",
+    "subject": "Movies",
+    "category": "Movies",
+    "tags": ["animation", "disney", "pixar", "movies", "classic"],
+    "difficulty": "easy",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 4,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Which Disney film was the first-ever full-length animated feature film?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Cinderella" },
+        { "id": "b", "label": "Bambi" },
+        { "id": "c", "label": "Fantasia" },
+        { "id": "d", "label": "Snow White and the Seven Dwarfs" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q2",
+      "text": "Toy Story (1995) was the first feature film to be made entirely with what?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Digital hand-drawn animation" },
+        { "id": "b", "label": "Computer-generated imagery (CGI)" },
+        { "id": "c", "label": "Stop-motion animation" },
+        { "id": "d", "label": "Claymation" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q3",
+      "text": "Beauty and the Beast (1991) was notable because it was the first animated film to be nominated for what?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Best Visual Effects Oscar" },
+        { "id": "b", "label": "Best Original Screenplay Oscar" },
+        { "id": "c", "label": "Best Picture Oscar" },
+        { "id": "d", "label": "Best Director Oscar" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "Spirited Away (2001), which won the Academy Award for Best Animated Feature, was directed by whom?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Makoto Shinkai" },
+        { "id": "b", "label": "Isao Takahata" },
+        { "id": "c", "label": "Mamoru Hosoda" },
+        { "id": "d", "label": "Hayao Miyazaki" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q5",
+      "text": "In The Lion King, what is the name of Simba's treacherous uncle?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Mufasa" },
+        { "id": "b", "label": "Scar" },
+        { "id": "c", "label": "Ed" },
+        { "id": "d", "label": "Banzai" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q6",
+      "text": "In Shrek, what famous fairy-tale character does Shrek rescue from a castle guarded by a dragon?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Cinderella" },
+        { "id": "b", "label": "Snow White" },
+        { "id": "c", "label": "Princess Fiona" },
+        { "id": "d", "label": "Sleeping Beauty" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "In Finding Nemo, what type of fish is Nemo?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Blue Tang" },
+        { "id": "b", "label": "Clownfish" },
+        { "id": "c", "label": "Surgeonfish" },
+        { "id": "d", "label": "Angelfish" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q8",
+      "text": "Which Studio Ghibli film features a young girl named Chihiro who becomes trapped in a spirit world?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Princess Mononoke" },
+        { "id": "b", "label": "My Neighbor Totoro" },
+        { "id": "c", "label": "Spirited Away" },
+        { "id": "d", "label": "Howl's Moving Castle" }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  ]
+}

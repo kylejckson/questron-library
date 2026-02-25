@@ -1,0 +1,138 @@
+{
+  "title": "General Knowledge Trivia",
+  "meta": {
+    "description": "A fun mixed bag of trivia covering everything from science to sport — perfect for parties!",
+    "subject": "General Knowledge",
+    "category": "Parties",
+    "tags": ["trivia", "mixed", "fun", "party", "general knowledge"],
+    "difficulty": "easy",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "How many players are on a standard basketball team on the court at one time?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "4" },
+        { "id": "b", "label": "5" },
+        { "id": "c", "label": "6" },
+        { "id": "d", "label": "7" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "What is the most spoken language in the world by native speakers?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "English" },
+        { "id": "b", "label": "Spanish" },
+        { "id": "c", "label": "Mandarin Chinese" },
+        { "id": "d", "label": "Hindi" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "Which planet is closest to the Sun?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Venus" },
+        { "id": "b", "label": "Mars" },
+        { "id": "c", "label": "Earth" },
+        { "id": "d", "label": "Mercury" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q4",
+      "text": "What is the currency of Japan?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Won" },
+        { "id": "b", "label": "Yen" },
+        { "id": "c", "label": "Yuan" },
+        { "id": "d", "label": "Ringgit" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "How many continents are there on Earth?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "5" },
+        { "id": "b", "label": "6" },
+        { "id": "c", "label": "7" },
+        { "id": "d", "label": "8" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "In what year did the Titanic sink?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "1908" },
+        { "id": "b", "label": "1912" },
+        { "id": "c", "label": "1916" },
+        { "id": "d", "label": "1920" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q7",
+      "text": "What is the largest animal on Earth?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "African Elephant" },
+        { "id": "b", "label": "Giraffe" },
+        { "id": "c", "label": "Blue Whale" },
+        { "id": "d", "label": "Great White Shark" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q8",
+      "text": "Which country invented pizza?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Greece" },
+        { "id": "b", "label": "Spain" },
+        { "id": "c", "label": "France" },
+        { "id": "d", "label": "Italy" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q9",
+      "text": "What is the hardest natural substance on Earth?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Gold" },
+        { "id": "b", "label": "Iron" },
+        { "id": "c", "label": "Diamond" },
+        { "id": "d", "label": "Quartz" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q10",
+      "text": "How many sides does a standard stop sign have?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "4" },
+        { "id": "b", "label": "6" },
+        { "id": "c", "label": "8" },
+        { "id": "d", "label": "10" }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  ]
+}

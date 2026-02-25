@@ -1,0 +1,114 @@
+{
+  "title": "2000s Medical & Legal Procedurals",
+  "meta": {
+    "description": "Grey's Anatomy, House MD, CSI — how well do you know the procedural dramas that dominated the 2000s?",
+    "subject": "Television",
+    "category": "TV",
+    "tags": ["TV", "2000s", "medical", "legal", "procedural", "drama"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What hospital do the surgeons work in on Grey's Anatomy?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Princeton-Plainsboro Teaching Hospital" },
+        { "id": "b", "label": "Sacred Heart" },
+        { "id": "c", "label": "Seattle Grace Hospital" },
+        { "id": "d", "label": "County General Hospital" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q2",
+      "text": "In House MD, Dr. Gregory House works at which fictional hospital?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Seattle Grace" },
+        { "id": "b", "label": "Princeton-Plainsboro Teaching Hospital" },
+        { "id": "c", "label": "County General" },
+        { "id": "d", "label": "Boston General" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q3",
+      "text": "What is CSI an abbreviation for?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Crime Scene Intelligence" },
+        { "id": "b", "label": "Criminal Special Investigation" },
+        { "id": "c", "label": "Crime Scene Investigation" },
+        { "id": "d", "label": "Criminal Scene Inquiry" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "In Scrubs, what is the name of the main character played by Zach Braff?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Dr. Perry Cox" },
+        { "id": "b", "label": "Dr. John Dorian (J.D.)" },
+        { "id": "c", "label": "Dr. Christopher Turk" },
+        { "id": "d", "label": "Dr. Bob Kelso" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "Law & Order: SVU stands for what?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Special Victims Unit" },
+        { "id": "b", "label": "Special Violence Unit" },
+        { "id": "c", "label": "Severe Victim Undercover" },
+        { "id": "d", "label": "Sexual Victims Union" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q6",
+      "text": "In which US city is the original CSI series set?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Los Angeles" },
+        { "id": "b", "label": "Miami" },
+        { "id": "c", "label": "New York" },
+        { "id": "d", "label": "Las Vegas" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q7",
+      "text": "In House MD, what is Dr. House's signature accessory that he relies on due to his leg injury?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "A wheelchair" },
+        { "id": "b", "label": "A walking cane" },
+        { "id": "c", "label": "A leg brace" },
+        { "id": "d", "label": "Crutches" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q8",
+      "text": "Boston Legal, a successful legal drama of the 2000s, was a spin-off of which earlier show?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "LA Law" },
+        { "id": "b", "label": "The Practice" },
+        { "id": "c", "label": "Ally McBeal" },
+        { "id": "d", "label": "Law & Order" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

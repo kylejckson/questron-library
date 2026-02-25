@@ -1,0 +1,138 @@
+{
+  "title": "High School Biology Review",
+  "meta": {
+    "description": "Brush up on cells, genetics, ecosystems, and more with this high school biology challenge.",
+    "subject": "Biology",
+    "category": "Classrooms",
+    "tags": ["biology", "cells", "genetics", "evolution", "science"],
+    "difficulty": "medium",
+    "audience": "students",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What is the powerhouse of the cell?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Nucleus" },
+        { "id": "b", "label": "Ribosome" },
+        { "id": "c", "label": "Mitochondria" },
+        { "id": "d", "label": "Endoplasmic reticulum" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q2",
+      "text": "What is the process by which plants make their own food using sunlight?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Respiration" },
+        { "id": "b", "label": "Photosynthesis" },
+        { "id": "c", "label": "Transpiration" },
+        { "id": "d", "label": "Fermentation" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q3",
+      "text": "What molecule carries genetic information in cells?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "ATP" },
+        { "id": "b", "label": "RNA" },
+        { "id": "c", "label": "DNA" },
+        { "id": "d", "label": "Protein" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "Which blood type is known as the universal donor?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "A+" },
+        { "id": "b", "label": "O-" },
+        { "id": "c", "label": "AB+" },
+        { "id": "d", "label": "B-" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "How many chromosomes do humans typically have?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "23" },
+        { "id": "b", "label": "46" },
+        { "id": "c", "label": "48" },
+        { "id": "d", "label": "44" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q6",
+      "text": "What is the study of heredity and genetic variation called?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Ecology" },
+        { "id": "b", "label": "Zoology" },
+        { "id": "c", "label": "Genetics" },
+        { "id": "d", "label": "Botany" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "Which organ produces insulin in the human body?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Liver" },
+        { "id": "b", "label": "Kidney" },
+        { "id": "c", "label": "Pancreas" },
+        { "id": "d", "label": "Spleen" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q8",
+      "text": "Who is known as the father of evolution by natural selection?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Gregor Mendel" },
+        { "id": "b", "label": "Louis Pasteur" },
+        { "id": "c", "label": "Charles Darwin" },
+        { "id": "d", "label": "Isaac Newton" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q9",
+      "text": "What type of cell division produces gametes (sperm and eggs)?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Mitosis" },
+        { "id": "b", "label": "Meiosis" },
+        { "id": "c", "label": "Binary fission" },
+        { "id": "d", "label": "Budding" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q10",
+      "text": "What is the basic unit of life?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Atom" },
+        { "id": "b", "label": "Molecule" },
+        { "id": "c", "label": "Cell" },
+        { "id": "d", "label": "Organ" }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  ]
+}

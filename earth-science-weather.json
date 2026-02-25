@@ -1,0 +1,114 @@
+{
+  "title": "Earth Science & Weather",
+  "meta": {
+    "description": "Earthquakes, hurricanes, and the water cycle — test your knowledge of Earth's dynamic systems!",
+    "subject": "Science",
+    "category": "Science",
+    "tags": ["earth science", "weather", "geology", "climate", "science"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What scale is used to measure the magnitude of earthquakes?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Beaufort Scale" },
+        { "id": "b", "label": "Mercalli Scale" },
+        { "id": "c", "label": "Richter Scale" },
+        { "id": "d", "label": "Saffir-Simpson Scale" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q2",
+      "text": "What is the term for the centre of a hurricane, which is calm and clear?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "The core" },
+        { "id": "b", "label": "The eye" },
+        { "id": "c", "label": "The vortex" },
+        { "id": "d", "label": "The calm zone" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q3",
+      "text": "Which type of cloud is associated with thunderstorms?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Cirrus" },
+        { "id": "b", "label": "Stratus" },
+        { "id": "c", "label": "Cumulonimbus" },
+        { "id": "d", "label": "Nimbostratus" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "What is the deepest point in the world's oceans?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "The Java Trench" },
+        { "id": "b", "label": "The Puerto Rico Trench" },
+        { "id": "c", "label": "The Mariana Trench" },
+        { "id": "d", "label": "The Tonga Trench" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q5",
+      "text": "What phenomenon causes the sky to appear blue?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Reflection off the ocean" },
+        { "id": "b", "label": "Rayleigh scattering of sunlight" },
+        { "id": "c", "label": "Absorption of UV by ozone" },
+        { "id": "d", "label": "Refraction by ice crystals" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q6",
+      "text": "What is the name of the layer of Earth's atmosphere that contains the ozone layer?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Troposphere" },
+        { "id": "b", "label": "Mesosphere" },
+        { "id": "c", "label": "Stratosphere" },
+        { "id": "d", "label": "Thermosphere" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "The aurora borealis (Northern Lights) is caused by what?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Moonlight reflecting off polar ice" },
+        { "id": "b", "label": "Charged solar particles interacting with Earth's magnetic field" },
+        { "id": "c", "label": "Volcanic light emissions from the Arctic" },
+        { "id": "d", "label": "The bending of sunlight below the horizon" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q8",
+      "text": "What is the process by which water moves from the ocean into the atmosphere and back to Earth?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "The carbon cycle" },
+        { "id": "b", "label": "The water (hydrological) cycle" },
+        { "id": "c", "label": "Evapotranspiration loop" },
+        { "id": "d", "label": "The nitrogen cycle" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

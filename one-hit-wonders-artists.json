@@ -1,0 +1,114 @@
+{
+  "title": "One-Hit Wonders: Artist Edition",
+  "meta": {
+    "description": "They hit the top of the charts just once — but we never forgot them! Match the one-hit wonder to its artist.",
+    "subject": "Music",
+    "category": "Music",
+    "tags": ["one-hit wonders", "music", "pop", "trivia", "artists"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 20,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Who recorded the 1990 one-hit wonder 'Ice Ice Baby'?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "MC Hammer" },
+        { "id": "b", "label": "Tone Lōc" },
+        { "id": "c", "label": "Vanilla Ice" },
+        { "id": "d", "label": "Young MC" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q2",
+      "text": "Which group is responsible for the 2000 hit 'Who Let the Dogs Out'?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Hootie & the Blowfish" },
+        { "id": "b", "label": "Baha Men" },
+        { "id": "c", "label": "OomPH!" },
+        { "id": "d", "label": "Five" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q3",
+      "text": "Which duo sang the 1993 hit 'Macarena'?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Las Ketchup" },
+        { "id": "b", "label": "Ricky Martin" },
+        { "id": "c", "label": "Los Del Rio" },
+        { "id": "d", "label": "Chayanne" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "Lou Bega's 'Mambo No. 5' became a global hit in which year?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "1997" },
+        { "id": "b", "label": "1998" },
+        { "id": "c", "label": "1999" },
+        { "id": "d", "label": "2001" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q5",
+      "text": "Which British group had a one-hit wonder in 1997 with 'Tubthumping' (I Get Knocked Down)?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Pulp" },
+        { "id": "b", "label": "Chumbawamba" },
+        { "id": "c", "label": "Elastica" },
+        { "id": "d", "label": "Supergrass" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q6",
+      "text": "South Korean artist PSY's 'Gangnam Style' was released in which year?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "2010" },
+        { "id": "b", "label": "2011" },
+        { "id": "c", "label": "2012" },
+        { "id": "d", "label": "2013" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "Who sang the 2004 novelty pop hit 'Yeah!' featuring Lil Jon and Ludacris?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Nelly" },
+        { "id": "b", "label": "Chingy" },
+        { "id": "c", "label": "Usher" },
+        { "id": "d", "label": "T-Pain" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q8",
+      "text": "'Come On Eileen' (1982), one of the best-selling singles of all time in the UK, was by which band?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "The Proclaimers" },
+        { "id": "b", "label": "Dexys Midnight Runners" },
+        { "id": "c", "label": "Aztec Camera" },
+        { "id": "d", "label": "Big Country" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "title": "Famous Scientists & Inventors",
+  "meta": {
+    "description": "From Newton's apple to Tesla's coil — how well do you know the greatest minds in scientific history?",
+    "subject": "Science",
+    "category": "Science",
+    "tags": ["scientists", "inventors", "history of science", "discoveries", "science"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Isaac Newton's laws of motion were published in which landmark 1687 work?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Principia Mathematica" },
+        { "id": "b", "label": "Philosophiæ Naturalis Principia Mathematica" },
+        { "id": "c", "label": "Opticks" },
+        { "id": "d", "label": "The Mathematical Principles of Physics" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "Marie Curie was the first person to win Nobel Prizes in two different sciences. Which two?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Chemistry and Medicine" },
+        { "id": "b", "label": "Physics and Mathematics" },
+        { "id": "c", "label": "Physics and Chemistry" },
+        { "id": "d", "label": "Chemistry and Biology" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "Who invented the telephone in 1876?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Thomas Edison" },
+        { "id": "b", "label": "Nikola Tesla" },
+        { "id": "c", "label": "Alexander Graham Bell" },
+        { "id": "d", "label": "Guglielmo Marconi" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "Albert Einstein's famous formula E=mc² relates energy to what?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Mass multiplied by charge squared" },
+        { "id": "b", "label": "Mass multiplied by the speed of light squared" },
+        { "id": "c", "label": "Motion multiplied by force squared" },
+        { "id": "d", "label": "Mass multiplied by force" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "Charles Darwin published his theory of evolution in which book in 1859?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "The Descent of Man" },
+        { "id": "b", "label": "The Voyage of the Beagle" },
+        { "id": "c", "label": "On the Origin of Species" },
+        { "id": "d", "label": "Natural Selection Explained" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "Nikola Tesla is most associated with contributions to which field?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Internal combustion engines" },
+        { "id": "b", "label": "Alternating current (AC) electricity" },
+        { "id": "c", "label": "Radio waves" },
+        { "id": "d", "label": "Atomic theory" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q7",
+      "text": "Who is credited with inventing the World Wide Web in 1989?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Bill Gates" },
+        { "id": "b", "label": "Steve Jobs" },
+        { "id": "c", "label": "Tim Berners-Lee" },
+        { "id": "d", "label": "Vint Cerf" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q8",
+      "text": "Archimedes discovered his famous principle about buoyancy while doing what?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Swimming in the sea" },
+        { "id": "b", "label": "Getting into a bath" },
+        { "id": "c", "label": "Watching objects sink in a river" },
+        { "id": "d", "label": "Building a ship" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

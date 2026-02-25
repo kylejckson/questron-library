@@ -1,0 +1,114 @@
+{
+  "title": "Football (Soccer) World Cups",
+  "meta": {
+    "description": "The beautiful game's biggest stage — test your knowledge of FIFA World Cup history!",
+    "subject": "Sport",
+    "category": "Sport",
+    "tags": ["football", "soccer", "FIFA", "World Cup", "sport"],
+    "difficulty": "medium",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 5,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 25,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Which country has won the most FIFA World Cups?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Germany" },
+        { "id": "b", "label": "Argentina" },
+        { "id": "c", "label": "Italy" },
+        { "id": "d", "label": "Brazil" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q2",
+      "text": "How many FIFA World Cup titles did Pelé win with Brazil?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "1" },
+        { "id": "b", "label": "2" },
+        { "id": "c", "label": "3" },
+        { "id": "d", "label": "4" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q3",
+      "text": "Which country hosted the 2022 FIFA World Cup?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Saudi Arabia" },
+        { "id": "b", "label": "UAE" },
+        { "id": "c", "label": "Qatar" },
+        { "id": "d", "label": "Bahrain" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q4",
+      "text": "Who scored a famous 'Hand of God' goal at the 1986 World Cup?",
+      "timeLimitSeconds": 15,
+      "options": [
+        { "id": "a", "label": "Ronaldo" },
+        { "id": "b", "label": "Diego Maradona" },
+        { "id": "c", "label": "Zinedine Zidane" },
+        { "id": "d", "label": "Pele" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q5",
+      "text": "Which nation won its first ever World Cup at the 2022 Qatar tournament?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "France" },
+        { "id": "b", "label": "Croatia" },
+        { "id": "c", "label": "Morocco" },
+        { "id": "d", "label": "Argentina" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q6",
+      "text": "The first FIFA World Cup was held in 1930 in which country?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Brazil" },
+        { "id": "b", "label": "Argentina" },
+        { "id": "c", "label": "Uruguay" },
+        { "id": "d", "label": "Italy" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q7",
+      "text": "Which player holds the record for most goals scored across multiple World Cup tournaments?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Ronaldo (Brazil)" },
+        { "id": "b", "label": "Miroslav Klose (Germany)" },
+        { "id": "c", "label": "Cristiano Ronaldo" },
+        { "id": "d", "label": "Lionel Messi" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q8",
+      "text": "Zinedine Zidane was infamously sent off in the 2006 World Cup Final for what?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "A dangerous tackle" },
+        { "id": "b", "label": "A headbutt on Marco Materazzi" },
+        { "id": "c", "label": "Deliberately handling the ball" },
+        { "id": "d", "label": "Abusing the referee" }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  ]
+}

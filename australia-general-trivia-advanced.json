@@ -1,0 +1,138 @@
+{
+  "title": "Australia General Trivia: Advanced",
+  "meta": {
+    "description": "Dive deeper into the Land Down Under — geography, history, wildlife, culture, and famous Australians. Perfect for tourists and locals alike!",
+    "subject": "Geography & Culture",
+    "category": "Parties",
+    "tags": ["Australia", "geography", "culture", "wildlife", "history"],
+    "difficulty": "hard",
+    "audience": "all",
+    "language": "en",
+    "estimatedMinutes": 6,
+    "author": ""
+  },
+  "defaultTimeLimitSeconds": 30,
+  "shuffleQuestions": true,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What is the largest coral reef system in the world, located off the coast of Queensland?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Ningaloo Reef" },
+        { "id": "b", "label": "Great Barrier Reef" },
+        { "id": "c", "label": "Shark Bay" },
+        { "id": "d", "label": "Lord Howe Island Reef" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q2",
+      "text": "Which mammal is the fastest land animal in Australia?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Kangaroo" },
+        { "id": "b", "label": "Dingo" },
+        { "id": "c", "label": "Wombat" },
+        { "id": "d", "label": "Emu" }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    {
+      "id": "q3",
+      "text": "Uluru, also known as Ayers Rock, is sacred to which Indigenous Australian people?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "The Yolngu people" },
+        { "id": "b", "label": "The Anangu people" },
+        { "id": "c", "label": "The Arrernte people" },
+        { "id": "d", "label": "The Wurundjeri people" }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    {
+      "id": "q4",
+      "text": "What is Australia's largest and capital city?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "Sydney" },
+        { "id": "b", "label": "Melbourne" },
+        { "id": "c", "label": "Canberra" },
+        { "id": "d", "label": "Brisbane" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q5",
+      "text": "What is the name of Australia's bushy-tailed rodent, often mistaken for a rat but actually a marsupial?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Wombat" },
+        { "id": "b", "label": "Quokka" },
+        { "id": "c", "label": "Possum" },
+        { "id": "d", "label": "Bilby" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q6",
+      "text": "Which famous Aboriginal activist and actor won an Academy Award in 1983?",
+      "timeLimitSeconds": 30,
+      "options": [
+        { "id": "a", "label": "Cathy Freeman" },
+        { "id": "b", "label": "Evelyn Scott" },
+        { "id": "c", "label": "Mark Wahlberg's role was Australia-adjacent..." },
+        { "id": "d", "label": "No Oscar winner fits this exactly" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q7",
+      "text": "What is the name of the vast desert region that covers most of central Australia?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "The Simpson Desert" },
+        { "id": "b", "label": "The Great Victorian Desert" },
+        { "id": "c", "label": "The Outback" },
+        { "id": "d", "label": "All of the above are correct" }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    {
+      "id": "q8",
+      "text": "How many Australian states and territories make up the Australian federation?",
+      "timeLimitSeconds": 20,
+      "options": [
+        { "id": "a", "label": "4" },
+        { "id": "b", "label": "6" },
+        { "id": "c", "label": "8" },
+        { "id": "d", "label": "10" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q9",
+      "text": "What is the smallest mammal in the world, found in Australia, with a body length of about 2.5 cm?",
+      "timeLimitSeconds": 25,
+      "options": [
+        { "id": "a", "label": "Honey possum" },
+        { "id": "b", "label": "Bumblebee bat" },
+        { "id": "c", "label": "Feathertail glider" },
+        { "id": "d", "label": "Musky rat-kangaroo" }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    {
+      "id": "q10",
+      "text": "Which Australian tennis player won 24 Grand Slam singles titles as of 2024, making her the all-time record holder?",
+      "timeLimitSeconds": 30,
+      "options": [
+        { "id": "a", "label": "Ashleigh Barty" },
+        { "id": "b", "label": "Evonne Cawley" },
+        { "id": "c", "label": "Margaret Court" },
+        { "id": "d", "label": "Billie Jean King" }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  ]
+}
